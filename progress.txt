@@ -1,0 +1,700 @@
+Episode =    1, score= 55.084 (best= 55.084, step=37, avg_reward=  1.489, worst=  1.730,  z-Pos=11.353032794193092, z-Vel=3.110647413244855, z-target=10.0)
+Episode =    2, score= 50.513 (best= 55.084, step=47, avg_reward=  1.075, worst=  0.592,  z-Pos=11.380309540848467, z-Vel=3.658023167340179, z-target=10.0)
+Episode =    3, score= 52.550 (best= 55.084, step=44, avg_reward=  1.194, worst=  0.592,  z-Pos=11.332573601605912, z-Vel=3.4425393994210123, z-target=10.0)
+Episode =    4, score= 51.385 (best= 55.084, step=36, avg_reward=  1.427, worst=  0.592,  z-Pos=11.370660933719723, z-Vel=2.864065971308874, z-target=10.0)
+Episode =    5, score= 51.242 (best= 55.084, step=46, avg_reward=  1.114, worst=  0.592,  z-Pos=11.356654532100983, z-Vel=3.6082753434514454, z-target=10.0)
+Episode =    6, score= 49.322 (best= 55.084, step=34, avg_reward=  1.451, worst=  0.592,  z-Pos=11.324531899627127, z-Vel=2.9147308048255973, z-target=10.0)
+Episode =    7, score= 36.925 (best= 55.084, step=29, avg_reward=  1.273, worst=  0.592,  z-Pos=11.330603981390542, z-Vel=2.1361736442615147, z-target=10.0)
+Episode =    8, score= 53.452 (best= 55.084, step=37, avg_reward=  1.445, worst=  0.592,  z-Pos=11.324504213623454, z-Vel=2.7846826183983744, z-target=10.0)
+Episode =    9, score= 55.867 (best= 55.867, step=45, avg_reward=  1.241, worst=  0.592,  z-Pos=11.371140027900351, z-Vel=3.3609843709011744, z-target=10.0)
+Episode =   10, score= 48.150 (best= 55.867, step=34, avg_reward=  1.416, worst=  0.592,  z-Pos=11.32241378257606, z-Vel=2.7168957045347377, z-target=10.0)
+Episode =   11, score= 51.777 (best= 55.867, step=36, avg_reward=  1.438, worst=  0.592,  z-Pos=11.353095700857084, z-Vel=2.867267505437505, z-target=10.0)
+Episode =   12, score= 40.565 (best= 55.867, step=30, avg_reward=  1.352, worst=  0.592,  z-Pos=11.323094227006893, z-Vel=2.503703747939053, z-target=10.0)
+Episode =   13, score= 51.866 (best= 55.867, step=45, avg_reward=  1.153, worst=  0.592,  z-Pos=11.35595360573506, z-Vel=3.525250548550766, z-target=10.0)
+Episode =   14, score= 52.430 (best= 55.867, step=47, avg_reward=  1.116, worst=  0.592,  z-Pos=11.327231007611099, z-Vel=3.50016422798333, z-target=10.0)
+Episode =   15, score= 50.534 (best= 55.867, step=45, avg_reward=  1.123, worst=  0.592,  z-Pos=11.373129160575052, z-Vel=3.6055558803522416, z-target=10.0)
+Episode =   16, score= 60.640 (best= 60.640, step=40, avg_reward=  1.516, worst=  0.592,  z-Pos=11.334719812307116, z-Vel=3.1070684384402223, z-target=10.0)
+Episode =   17, score= 59.141 (best= 60.640, step=39, avg_reward=  1.516, worst=  0.592,  z-Pos=11.326717525862916, z-Vel=3.1184517238967704, z-target=10.0)
+Episode =   18, score= 48.905 (best= 60.640, step=42, avg_reward=  1.164, worst=  0.592,  z-Pos=11.354655293699366, z-Vel=3.5508905364656798, z-target=10.0)
+Episode =   19, score= 55.742 (best= 60.640, step=42, avg_reward=  1.327, worst=  0.592,  z-Pos=11.36306371323141, z-Vel=3.3177176965232853, z-target=10.0)
+Episode =   20, score= 48.899 (best= 60.640, step=35, avg_reward=  1.397, worst=  0.592,  z-Pos=11.349643699983528, z-Vel=2.6742738955584455, z-target=10.0)
+Episode =   21, score= 47.589 (best= 60.640, step=34, avg_reward=  1.400, worst=  0.592,  z-Pos=11.355826991863761, z-Vel=2.73670511930246, z-target=10.0)
+Episode =   22, score= 61.665 (best= 61.665, step=41, avg_reward=  1.504, worst=  0.592,  z-Pos=11.316464032889538, z-Vel=2.9634178553601207, z-target=10.0)
+Episode =   23, score= 52.888 (best= 61.665, step=47, avg_reward=  1.125, worst=  0.592,  z-Pos=11.373905805542824, z-Vel=3.570616475014636, z-target=10.0)
+Episode =   24, score= 53.366 (best= 61.665, step=37, avg_reward=  1.442, worst=  0.592,  z-Pos=11.359359450452532, z-Vel=2.876823479965796, z-target=10.0)
+Episode =   25, score= 64.353 (best= 64.353, step=42, avg_reward=  1.532, worst=  0.592,  z-Pos=11.334206351994544, z-Vel=3.1359647216159954, z-target=10.0)
+Episode =   26, score= 58.912 (best= 64.353, step=39, avg_reward=  1.511, worst=  0.592,  z-Pos=11.367553233940956, z-Vel=3.20661815455505, z-target=10.0)
+Episode =   27, score= 50.810 (best= 64.353, step=43, avg_reward=  1.182, worst=  0.592,  z-Pos=11.333960187473307, z-Vel=3.4907780631541416, z-target=10.0)
+Episode =   28, score= 60.206 (best= 64.353, step=40, avg_reward=  1.505, worst=  0.592,  z-Pos=11.344738647062721, z-Vel=3.076384177117613, z-target=10.0)
+Episode =   29, score= 50.722 (best= 64.353, step=49, avg_reward=  1.035, worst=  0.565,  z-Pos=11.345278602976729, z-Vel=3.6729199459432404, z-target=10.0)
+Episode =   30, score= 56.415 (best= 64.353, step=39, avg_reward=  1.447, worst=  0.565,  z-Pos=11.370455480834506, z-Vel=2.874937244903659, z-target=10.0)
+Episode =   31, score= 49.494 (best= 64.353, step=35, avg_reward=  1.414, worst=  0.565,  z-Pos=11.333038417386472, z-Vel=2.7094171978797625, z-target=10.0)
+Episode =   32, score= 63.299 (best= 64.353, step=46, avg_reward=  1.376, worst=  0.565,  z-Pos=11.377826912966766, z-Vel=3.251829350812919, z-target=10.0)
+Episode =   33, score= 57.941 (best= 64.353, step=40, avg_reward=  1.449, worst=  0.565,  z-Pos=11.36451584954998, z-Vel=3.2392205553802316, z-target=10.0)
+Episode =   34, score= 56.654 (best= 64.353, step=38, avg_reward=  1.491, worst=  0.565,  z-Pos=11.328851549335106, z-Vel=3.013933044894957, z-target=10.0)
+Episode =   35, score= 56.404 (best= 64.353, step=41, avg_reward=  1.376, worst=  0.565,  z-Pos=11.317582524087852, z-Vel=3.218340519299533, z-target=10.0)
+Episode =   36, score= 50.650 (best= 64.353, step=35, avg_reward=  1.447, worst=  0.565,  z-Pos=11.322414887068446, z-Vel=2.852077171432665, z-target=10.0)
+Episode =   37, score= 53.497 (best= 64.353, step=37, avg_reward=  1.446, worst=  0.565,  z-Pos=11.349526646135565, z-Vel=2.865728384441593, z-target=10.0)
+Episode =   38, score= 49.717 (best= 64.353, step=50, avg_reward=  0.994, worst=  0.521,  z-Pos=11.347557866068238, z-Vel=3.7500900771785584, z-target=10.0)
+Episode =   39, score= 59.478 (best= 64.353, step=39, avg_reward=  1.525, worst=  0.521,  z-Pos=11.322991758613341, z-Vel=3.1573109028629176, z-target=10.0)
+Episode =   40, score= 51.509 (best= 64.353, step=44, avg_reward=  1.171, worst=  0.521,  z-Pos=11.3325292006004, z-Vel=3.4709050962958847, z-target=10.0)
+Episode =   41, score= 54.502 (best= 64.353, step=38, avg_reward=  1.434, worst=  0.521,  z-Pos=11.37363443233023, z-Vel=3.285384421054689, z-target=10.0)
+Episode =   42, score= 53.714 (best= 64.353, step=42, avg_reward=  1.279, worst=  0.521,  z-Pos=11.37383730539342, z-Vel=3.384817342895759, z-target=10.0)
+Episode =   43, score= 53.515 (best= 64.353, step=37, avg_reward=  1.446, worst=  0.521,  z-Pos=11.340651517953054, z-Vel=2.8416700239437302, z-target=10.0)
+Episode =   44, score= 62.285 (best= 64.353, step=41, avg_reward=  1.519, worst=  0.521,  z-Pos=11.36611981017509, z-Vel=3.1833980697341526, z-target=10.0)
+Episode =   45, score= 49.648 (best= 64.353, step=35, avg_reward=  1.419, worst=  0.521,  z-Pos=11.323336817499863, z-Vel=2.7020400250612093, z-target=10.0)
+Episode =   46, score= 59.333 (best= 64.353, step=40, avg_reward=  1.483, worst=  0.521,  z-Pos=11.360563626659598, z-Vel=3.0057384282874353, z-target=10.0)
+Episode =   47, score= 55.175 (best= 64.353, step=42, avg_reward=  1.314, worst=  0.521,  z-Pos=11.327588506127183, z-Vel=3.2883435204228353, z-target=10.0)
+Episode =   48, score= 52.450 (best= 64.353, step=36, avg_reward=  1.457, worst=  0.521,  z-Pos=11.362644898358258, z-Vel=2.9980208924805622, z-target=10.0)
+Episode =   49, score= 58.793 (best= 64.353, step=39, avg_reward=  1.508, worst=  0.521,  z-Pos=11.37629536145287, z-Vel=3.2152529941284285, z-target=10.0)
+Episode =   50, score= 52.873 (best= 64.353, step=43, avg_reward=  1.230, worst=  0.521,  z-Pos=11.335263435169532, z-Vel=3.4035095701512135, z-target=10.0)
+Episode =   51, score= 53.656 (best= 64.353, step=46, avg_reward=  1.166, worst=  0.521,  z-Pos=11.353676168406198, z-Vel=3.4712920533619416, z-target=10.0)
+Episode =   52, score= 51.543 (best= 64.353, step=44, avg_reward=  1.171, worst=  0.521,  z-Pos=11.329652820656348, z-Vel=3.4645134981627925, z-target=10.0)
+Episode =   53, score= 62.326 (best= 64.353, step=41, avg_reward=  1.520, worst=  0.521,  z-Pos=11.369571568166004, z-Vel=3.198731449553035, z-target=10.0)
+Episode =   54, score= 55.004 (best= 64.353, step=37, avg_reward=  1.487, worst=  0.521,  z-Pos=11.333834449489082, z-Vel=3.0387570351780413, z-target=10.0)
+Episode =   55, score= 44.987 (best= 64.353, step=33, avg_reward=  1.363, worst=  0.521,  z-Pos=11.332400407166372, z-Vel=2.502749665363822, z-target=10.0)
+Episode =   56, score= 52.326 (best= 64.353, step=42, avg_reward=  1.246, worst=  0.521,  z-Pos=11.321978254420648, z-Vel=3.38026103656966, z-target=10.0)
+Episode =   57, score= 45.359 (best= 64.353, step=32, avg_reward=  1.417, worst=  0.521,  z-Pos=11.32885319098136, z-Vel=2.8172218040994967, z-target=10.0)
+Episode =   58, score= 47.774 (best= 64.353, step=34, avg_reward=  1.405, worst=  0.521,  z-Pos=11.335693103908525, z-Vel=2.7008675359191425, z-target=10.0)
+Episode =   59, score= 66.006 (best= 66.006, step=43, avg_reward=  1.535, worst=  0.521,  z-Pos=11.354129119295248, z-Vel=3.178150444539924, z-target=10.0)
+Episode =   60, score= 58.302 (best= 66.006, step=43, avg_reward=  1.356, worst=  0.521,  z-Pos=11.365562320143928, z-Vel=3.2680664034873472, z-target=10.0)
+Episode =   61, score= 55.013 (best= 66.006, step=46, avg_reward=  1.196, worst=  0.521,  z-Pos=11.32793583544837, z-Vel=3.3981920885679364, z-target=10.0)
+Episode =   62, score= 55.852 (best= 66.006, step=38, avg_reward=  1.470, worst=  0.521,  z-Pos=11.319061330543377, z-Vel=2.8714318818233586, z-target=10.0)
+Episode =   63, score= 59.089 (best= 66.006, step=39, avg_reward=  1.515, worst=  0.521,  z-Pos=11.330426402287385, z-Vel=3.1218017825478217, z-target=10.0)
+Episode =   64, score= 51.870 (best= 66.006, step=45, avg_reward=  1.153, worst=  0.521,  z-Pos=11.354550297955953, z-Vel=3.5284703853261763, z-target=10.0)
+Episode =   65, score= 42.957 (best= 66.006, step=31, avg_reward=  1.386, worst=  0.521,  z-Pos=11.319461500725366, z-Vel=2.6423296242780085, z-target=10.0)
+Episode =   66, score= 50.328 (best= 66.006, step=35, avg_reward=  1.438, worst=  0.521,  z-Pos=11.371808108097593, z-Vel=2.9587833616284396, z-target=10.0)
+Episode =   67, score= 51.507 (best= 66.006, step=48, avg_reward=  1.073, worst=  0.521,  z-Pos=11.332674159576024, z-Vel=3.6173343280830452, z-target=10.0)
+Episode =   68, score= 53.967 (best= 66.006, step=47, avg_reward=  1.148, worst=  0.521,  z-Pos=11.385080841684516, z-Vel=3.5137791269530876, z-target=10.0)
+Episode =   69, score= 64.102 (best= 66.006, step=42, avg_reward=  1.526, worst=  0.521,  z-Pos=11.362053275313428, z-Vel=3.1805478636516646, z-target=10.0)
+Episode =   70, score= 52.859 (best= 66.006, step=45, avg_reward=  1.175, worst=  0.521,  z-Pos=11.368564105788876, z-Vel=3.4678982656445587, z-target=10.0)
+Episode =   71, score= 64.000 (best= 66.006, step=45, avg_reward=  1.422, worst=  0.521,  z-Pos=11.336957599282577, z-Vel=3.193656026433403, z-target=10.0)
+Episode =   72, score= 67.813 (best= 67.813, step=44, avg_reward=  1.541, worst=  0.521,  z-Pos=11.349797453491838, z-Vel=3.173204952686595, z-target=10.0)
+Episode =   73, score= 53.136 (best= 67.813, step=48, avg_reward=  1.107, worst=  0.521,  z-Pos=11.317219522834199, z-Vel=3.4986073180180135, z-target=10.0)
+Episode =   74, score= 55.108 (best= 67.813, step=38, avg_reward=  1.450, worst=  0.521,  z-Pos=11.371976425238095, z-Vel=2.9252199648595774, z-target=10.0)
+Episode =   75, score= 60.346 (best= 67.813, step=40, avg_reward=  1.509, worst=  0.521,  z-Pos=11.349826928665268, z-Vel=3.1100651606595084, z-target=10.0)
+Episode =   76, score= 45.424 (best= 67.813, step=33, avg_reward=  1.376, worst=  0.521,  z-Pos=11.342803211923549, z-Vel=2.604702748572344, z-target=10.0)
+Episode =   77, score= 56.470 (best= 67.813, step=38, avg_reward=  1.486, worst=  0.521,  z-Pos=11.345651240310248, z-Vel=3.037612940950074, z-target=10.0)
+Episode =   78, score= 53.036 (best= 67.813, step=37, avg_reward=  1.433, worst=  0.521,  z-Pos=11.349916349311302, z-Vel=2.8029199251770205, z-target=10.0)
+Episode =   79, score= 57.256 (best= 67.813, step=44, avg_reward=  1.301, worst=  0.521,  z-Pos=11.354928815720443, z-Vel=3.2868586820136843, z-target=10.0)
+Episode =   80, score= 55.637 (best= 67.813, step=46, avg_reward=  1.209, worst=  0.521,  z-Pos=11.365845760683682, z-Vel=3.3994131802679424, z-target=10.0)
+Episode =   81, score= 55.320 (best= 67.813, step=47, avg_reward=  1.177, worst=  0.521,  z-Pos=11.362032511400647, z-Vel=3.4395721772082943, z-target=10.0)
+Episode =   82, score= 56.362 (best= 67.813, step=38, avg_reward=  1.483, worst=  0.521,  z-Pos=11.321587391434203, z-Vel=2.9502726023329933, z-target=10.0)
+Episode =   83, score= 50.785 (best= 67.813, step=49, avg_reward=  1.036, worst=  0.521,  z-Pos=11.332196243504718, z-Vel=3.667776294857868, z-target=10.0)
+Episode =   84, score= 52.167 (best= 67.813, step=36, avg_reward=  1.449, worst=  0.521,  z-Pos=11.352144219678223, z-Vel=2.9222843354288472, z-target=10.0)
+Episode =   85, score= 65.932 (best= 67.813, step=43, avg_reward=  1.533, worst=  0.521,  z-Pos=11.317381261722252, z-Vel=3.0697082445128174, z-target=10.0)
+Episode =   86, score= 57.468 (best= 67.813, step=38, avg_reward=  1.512, worst=  0.521,  z-Pos=11.31699049450003, z-Vel=3.0996399870036737, z-target=10.0)
+Episode =   87, score= 59.712 (best= 67.813, step=40, avg_reward=  1.493, worst=  0.521,  z-Pos=11.371239325574294, z-Vel=3.085751899753921, z-target=10.0)
+Episode =   88, score= 58.738 (best= 67.813, step=39, avg_reward=  1.506, worst=  0.521,  z-Pos=11.337096893273815, z-Vel=3.0906664778007227, z-target=10.0)
+Episode =   89, score= 51.930 (best= 67.813, step=47, avg_reward=  1.105, worst=  0.521,  z-Pos=11.350124356125779, z-Vel=3.5968128836734334, z-target=10.0)
+Episode =   90, score= 53.611 (best= 67.813, step=37, avg_reward=  1.449, worst=  0.521,  z-Pos=11.357922673376448, z-Vel=2.9069538323003328, z-target=10.0)
+Episode =   91, score= 61.522 (best= 67.813, step=42, avg_reward=  1.465, worst=  0.521,  z-Pos=11.353052904318949, z-Vel=3.2124697589031417, z-target=10.0)
+Episode =   92, score= 56.365 (best= 67.813, step=39, avg_reward=  1.445, worst=  0.521,  z-Pos=11.346346472658821, z-Vel=2.80066738070173, z-target=10.0)
+Episode =   93, score= 62.065 (best= 67.813, step=41, avg_reward=  1.514, worst=  0.521,  z-Pos=11.332123375958362, z-Vel=3.0582476704623596, z-target=10.0)
+Episode =   94, score= 52.211 (best= 67.813, step=44, avg_reward=  1.187, worst=  0.521,  z-Pos=11.362642707879226, z-Vel=3.4943157650599677, z-target=10.0)
+Episode =   95, score= 51.544 (best= 67.813, step=44, avg_reward=  1.171, worst=  0.521,  z-Pos=11.327961437910648, z-Vel=3.4722424987554388, z-target=10.0)
+Episode =   96, score= 51.779 (best= 67.813, step=46, avg_reward=  1.126, worst=  0.521,  z-Pos=11.319725874176553, z-Vel=3.5173865716199617, z-target=10.0)
+Episode =   97, score= 59.324 (best= 67.813, step=39, avg_reward=  1.521, worst=  0.521,  z-Pos=11.33731760831495, z-Vel=3.177291696360932, z-target=10.0)
+Episode =   98, score= 60.335 (best= 67.813, step=40, avg_reward=  1.508, worst=  0.521,  z-Pos=11.358607959362509, z-Vel=3.1339200007957997, z-target=10.0)
+Episode =   99, score= 62.215 (best= 67.813, step=41, avg_reward=  1.517, worst=  0.521,  z-Pos=11.349154796235982, z-Vel=3.1259200305713764, z-target=10.0)
+Episode =  100, score= 60.062 (best= 67.813, step=40, avg_reward=  1.502, worst=  0.521,  z-Pos=11.349033376615921, z-Vel=3.069146014358403, z-target=10.0)
+Episode =  101, score= 59.099 (best= 67.813, step=39, avg_reward=  1.515, worst=  0.521,  z-Pos=11.329600096930205, z-Vel=3.1208132186040527, z-target=10.0)
+Episode =  102, score= 56.943 (best= 67.813, step=39, avg_reward=  1.460, worst=  0.521,  z-Pos=11.37353171120711, z-Vel=2.9514316402931797, z-target=10.0)
+Episode =  103, score= 51.342 (best= 67.813, step=46, avg_reward=  1.116, worst=  0.521,  z-Pos=11.358582394714855, z-Vel=3.5756245344555366, z-target=10.0)
+Episode =  104, score= 54.764 (best= 67.813, step=38, avg_reward=  1.441, worst=  0.521,  z-Pos=11.349522982496559, z-Vel=3.251431274085869, z-target=10.0)
+Episode =  105, score= 57.400 (best= 67.813, step=38, avg_reward=  1.511, worst=  0.521,  z-Pos=11.357184869090906, z-Vel=3.212339778858766, z-target=10.0)
+Episode =  106, score= 56.900 (best= 67.813, step=43, avg_reward=  1.323, worst=  0.521,  z-Pos=11.322290167030935, z-Vel=3.2480016044609075, z-target=10.0)
+Episode =  107, score= 52.167 (best= 67.813, step=36, avg_reward=  1.449, worst=  0.521,  z-Pos=11.360578302048767, z-Vel=2.9485496504564686, z-target=10.0)
+Episode =  108, score= 55.234 (best= 67.813, step=42, avg_reward=  1.315, worst=  0.521,  z-Pos=11.323061870797488, z-Vel=3.2871193408143013, z-target=10.0)
+Episode =  109, score= 52.820 (best= 67.813, step=46, avg_reward=  1.148, worst=  0.521,  z-Pos=11.335562675785328, z-Vel=3.46446546271739, z-target=10.0)
+Episode =  110, score= 52.557 (best= 67.813, step=44, avg_reward=  1.194, worst=  0.521,  z-Pos=11.332055162914068, z-Vel=3.440009554819359, z-target=10.0)
+Episode =  111, score= 58.573 (best= 67.813, step=39, avg_reward=  1.502, worst=  0.521,  z-Pos=11.373880889132494, z-Vel=3.175956291123552, z-target=10.0)
+Episode =  112, score= 60.265 (best= 67.813, step=40, avg_reward=  1.507, worst=  0.521,  z-Pos=11.337299519138192, z-Vel=3.0630462224792043, z-target=10.0)
+Episode =  113, score= 58.645 (best= 67.813, step=39, avg_reward=  1.504, worst=  0.521,  z-Pos=11.34242864020156, z-Vel=3.093033604875423, z-target=10.0)
+Episode =  114, score= 69.559 (best= 69.559, step=45, avg_reward=  1.546, worst=  0.521,  z-Pos=11.363587128307472, z-Vel=3.2084832535184, z-target=10.0)
+Episode =  115, score= 60.505 (best= 69.559, step=41, avg_reward=  1.476, worst=  0.521,  z-Pos=11.372716956480115, z-Vel=3.2327456987576464, z-target=10.0)
+Episode =  116, score= 57.655 (best= 69.559, step=43, avg_reward=  1.341, worst=  0.521,  z-Pos=11.338552444248037, z-Vel=3.24563056352904, z-target=10.0)
+Episode =  117, score= 52.997 (best= 69.559, step=37, avg_reward=  1.432, worst=  0.521,  z-Pos=11.351099312238183, z-Vel=2.8011469071236963, z-target=10.0)
+Episode =  118, score= 55.712 (best= 69.559, step=38, avg_reward=  1.466, worst=  0.521,  z-Pos=11.33685272800672, z-Vel=2.904368216916158, z-target=10.0)
+Episode =  119, score= 51.044 (best= 69.559, step=35, avg_reward=  1.458, worst=  0.521,  z-Pos=11.338554780052805, z-Vel=2.966739831777374, z-target=10.0)
+Episode =  120, score= 56.444 (best= 69.559, step=38, avg_reward=  1.485, worst=  0.521,  z-Pos=11.331221796097594, z-Vel=2.9906246333006297, z-target=10.0)
+Episode =  121, score= 62.356 (best= 69.559, step=41, avg_reward=  1.521, worst=  0.521,  z-Pos=11.35065865728042, z-Vel=3.148984900621992, z-target=10.0)
+Episode =  122, score= 51.485 (best= 69.559, step=36, avg_reward=  1.430, worst=  0.521,  z-Pos=11.32797831009046, z-Vel=2.7480988708289544, z-target=10.0)
+Episode =  123, score= 52.624 (best= 69.559, step=51, avg_reward=  1.032, worst=  0.521,  z-Pos=11.380082646353255, z-Vel=3.6951373308981648, z-target=10.0)
+Episode =  124, score= 61.033 (best= 69.559, step=41, avg_reward=  1.489, worst=  0.521,  z-Pos=11.354619336550996, z-Vel=2.9896192993382065, z-target=10.0)
+Episode =  125, score= 54.240 (best= 69.559, step=38, avg_reward=  1.427, worst=  0.521,  z-Pos=11.371146005152763, z-Vel=2.8086086616278676, z-target=10.0)
+Episode =  126, score= 60.569 (best= 69.559, step=40, avg_reward=  1.514, worst=  0.521,  z-Pos=11.326293788924017, z-Vel=3.0729968541482515, z-target=10.0)
+Episode =  127, score= 55.089 (best= 69.559, step=38, avg_reward=  1.450, worst=  0.521,  z-Pos=11.334768317588763, z-Vel=2.8141669624931915, z-target=10.0)
+Episode =  128, score= 47.984 (best= 69.559, step=34, avg_reward=  1.411, worst=  0.521,  z-Pos=11.352097670707604, z-Vel=2.786373376067715, z-target=10.0)
+Episode =  129, score= 48.680 (best= 69.559, step=34, avg_reward=  1.432, worst=  0.521,  z-Pos=11.352437800726674, z-Vel=2.8994397220269463, z-target=10.0)
+Episode =  130, score= 57.943 (best= 69.559, step=40, avg_reward=  1.449, worst=  0.521,  z-Pos=11.364104719518018, z-Vel=3.238192341964812, z-target=10.0)
+Episode =  131, score= 56.714 (best= 69.559, step=47, avg_reward=  1.207, worst=  0.521,  z-Pos=11.333264569103164, z-Vel=3.3560762539111146, z-target=10.0)
+Episode =  132, score= 55.741 (best= 69.559, step=46, avg_reward=  1.212, worst=  0.521,  z-Pos=11.356462609098228, z-Vel=3.390531730464288, z-target=10.0)
+Episode =  133, score= 53.057 (best= 69.559, step=36, avg_reward=  1.474, worst=  0.521,  z-Pos=11.31801688635883, z-Vel=2.9523952856349753, z-target=10.0)
+Episode =  134, score= 51.196 (best= 69.559, step=45, avg_reward=  1.138, worst=  0.521,  z-Pos=11.317123845889968, z-Vel=3.506159192676798, z-target=10.0)
+Episode =  135, score= 54.542 (best= 69.559, step=47, avg_reward=  1.160, worst=  0.521,  z-Pos=11.333578830579178, z-Vel=3.4476997861648955, z-target=10.0)
+Episode =  136, score= 52.434 (best= 69.559, step=37, avg_reward=  1.417, worst=  0.521,  z-Pos=11.370287000932965, z-Vel=2.7820449146484236, z-target=10.0)
+Episode =  137, score= 53.456 (best= 69.559, step=41, avg_reward=  1.304, worst=  0.521,  z-Pos=11.330680860278711, z-Vel=3.315040276741368, z-target=10.0)
+Episode =  138, score= 66.261 (best= 69.559, step=43, avg_reward=  1.541, worst=  0.521,  z-Pos=11.347585845049824, z-Vel=3.1926483079168855, z-target=10.0)
+Episode =  139, score= 56.883 (best= 69.559, step=39, avg_reward=  1.459, worst=  0.521,  z-Pos=11.338936839030614, z-Vel=2.845013826128446, z-target=10.0)
+Episode =  140, score= 51.350 (best= 69.559, step=36, avg_reward=  1.426, worst=  0.521,  z-Pos=11.318521803594138, z-Vel=2.7000816579495157, z-target=10.0)
+Episode =  141, score= 55.667 (best= 69.559, step=43, avg_reward=  1.295, worst=  0.521,  z-Pos=11.346344012362517, z-Vel=3.298941020643438, z-target=10.0)
+Episode =  142, score= 51.655 (best= 69.559, step=46, avg_reward=  1.123, worst=  0.521,  z-Pos=11.324140676413519, z-Vel=3.546124531396827, z-target=10.0)
+Episode =  143, score= 59.163 (best= 69.559, step=43, avg_reward=  1.376, worst=  0.521,  z-Pos=11.373572122248067, z-Vel=3.2658515187770623, z-target=10.0)
+Episode =  144, score= 56.484 (best= 69.559, step=39, avg_reward=  1.448, worst=  0.521,  z-Pos=11.335364518423084, z-Vel=2.784570805827633, z-target=10.0)
+Episode =  145, score= 55.559 (best= 69.559, step=38, avg_reward=  1.462, worst=  0.521,  z-Pos=11.342808180866601, z-Vel=2.9008959502585374, z-target=10.0)
+Episode =  146, score= 51.442 (best= 69.559, step=36, avg_reward=  1.429, worst=  0.521,  z-Pos=11.32412684082117, z-Vel=2.7301642131388464, z-target=10.0)
+Episode =  147, score= 60.653 (best= 69.559, step=40, avg_reward=  1.516, worst=  0.521,  z-Pos=11.369754023554272, z-Vel=3.2108601908509367, z-target=10.0)
+Episode =  148, score= 52.831 (best= 69.559, step=42, avg_reward=  1.258, worst=  0.521,  z-Pos=11.365888882521453, z-Vel=3.401420200499984, z-target=10.0)
+Episode =  149, score= 51.669 (best= 69.559, step=48, avg_reward=  1.076, worst=  0.521,  z-Pos=11.330217933771628, z-Vel=3.5874785710133774, z-target=10.0)
+Episode =  150, score= 53.173 (best= 69.559, step=45, avg_reward=  1.182, worst=  0.521,  z-Pos=11.340649362049767, z-Vel=3.4255690350480057, z-target=10.0)
+Episode =  151, score= 57.619 (best= 69.559, step=41, avg_reward=  1.405, worst=  0.521,  z-Pos=11.380009863015117, z-Vel=3.2809195964689577, z-target=10.0)
+Episode =  152, score= 57.080 (best= 69.559, step=38, avg_reward=  1.502, worst=  0.521,  z-Pos=11.355183493250292, z-Vel=3.156990831123857, z-target=10.0)
+Episode =  153, score= 62.771 (best= 69.559, step=41, avg_reward=  1.531, worst=  0.521,  z-Pos=11.344410587412794, z-Vel=3.1877838351064125, z-target=10.0)
+Episode =  154, score= 62.421 (best= 69.559, step=41, avg_reward=  1.522, worst=  0.521,  z-Pos=11.325218769078045, z-Vel=3.085863790160938, z-target=10.0)
+Episode =  155, score= 46.715 (best= 69.559, step=33, avg_reward=  1.416, worst=  0.521,  z-Pos=11.316862380359517, z-Vel=2.7286810225738107, z-target=10.0)
+Episode =  156, score= 65.810 (best= 69.559, step=43, avg_reward=  1.530, worst=  0.521,  z-Pos=11.333339415389403, z-Vel=3.097659603336882, z-target=10.0)
+Episode =  157, score= 58.228 (best= 69.559, step=45, avg_reward=  1.294, worst=  0.521,  z-Pos=11.335528528800323, z-Vel=3.2675238334289847, z-target=10.0)
+Episode =  158, score= 57.266 (best= 69.559, step=39, avg_reward=  1.468, worst=  0.521,  z-Pos=11.366975149767349, z-Vel=2.975027852046223, z-target=10.0)
+Episode =  159, score= 56.602 (best= 69.559, step=46, avg_reward=  1.230, worst=  0.521,  z-Pos=11.369720056174796, z-Vel=3.381643350925469, z-target=10.0)
+Episode =  160, score= 50.793 (best= 69.559, step=43, avg_reward=  1.181, worst=  0.521,  z-Pos=11.338692184766066, z-Vel=3.4718345658329235, z-target=10.0)
+Episode =  161, score= 57.610 (best= 69.559, step=39, avg_reward=  1.477, worst=  0.521,  z-Pos=11.35094575954731, z-Vel=2.974654269354398, z-target=10.0)
+Episode =  162, score= 55.884 (best= 69.559, step=45, avg_reward=  1.242, worst=  0.521,  z-Pos=11.370454494079825, z-Vel=3.3844394548118166, z-target=10.0)
+Episode =  163, score= 50.025 (best= 69.559, step=46, avg_reward=  1.087, worst=  0.521,  z-Pos=11.36890261520649, z-Vel=3.646890170641164, z-target=10.0)
+Episode =  164, score= 51.207 (best= 69.559, step=45, avg_reward=  1.138, worst=  0.521,  z-Pos=11.320854701083027, z-Vel=3.4929519498202195, z-target=10.0)
+Episode =  165, score= 59.921 (best= 69.559, step=40, avg_reward=  1.498, worst=  0.521,  z-Pos=11.321550134521807, z-Vel=2.9721189538159596, z-target=10.0)
+Episode =  166, score= 56.819 (best= 69.559, step=38, avg_reward=  1.495, worst=  0.521,  z-Pos=11.330370437167208, z-Vel=3.195601611781936, z-target=10.0)
+Episode =  167, score= 54.389 (best= 69.559, step=41, avg_reward=  1.327, worst=  0.521,  z-Pos=11.32893376569626, z-Vel=3.2707673159372943, z-target=10.0)
+Episode =  168, score= 54.216 (best= 69.559, step=47, avg_reward=  1.154, worst=  0.521,  z-Pos=11.362937207349063, z-Vel=3.4851855325588734, z-target=10.0)
+Episode =  169, score= 60.482 (best= 69.559, step=40, avg_reward=  1.512, worst=  0.521,  z-Pos=11.362551089476336, z-Vel=3.1657699355668183, z-target=10.0)
+Episode =  170, score= 53.632 (best= 69.559, step=46, avg_reward=  1.166, worst=  0.521,  z-Pos=11.355831195580024, z-Vel=3.4741933644084937, z-target=10.0)
+Episode =  171, score= 47.874 (best= 69.559, step=51, avg_reward=  0.939, worst=  0.430,  z-Pos=11.362145754896723, z-Vel=3.898349174505824, z-target=10.0)
+Episode =  172, score= 55.164 (best= 69.559, step=45, avg_reward=  1.226, worst=  0.430,  z-Pos=11.345430620931916, z-Vel=3.37592662300822, z-target=10.0)
+Episode =  173, score= 60.934 (best= 69.559, step=42, avg_reward=  1.451, worst=  0.430,  z-Pos=11.32212394868905, z-Vel=3.182902528720644, z-target=10.0)
+Episode =  174, score= 56.216 (best= 69.559, step=38, avg_reward=  1.479, worst=  0.430,  z-Pos=11.372010270963852, z-Vel=3.0798292800200313, z-target=10.0)
+Episode =  175, score= 51.215 (best= 69.559, step=46, avg_reward=  1.113, worst=  0.430,  z-Pos=11.369577960296054, z-Vel=3.5929535848624945, z-target=10.0)
+Episode =  176, score= 56.940 (best= 69.559, step=38, avg_reward=  1.498, worst=  0.430,  z-Pos=11.36074595320458, z-Vel=3.1526715438649213, z-target=10.0)
+Episode =  177, score= 56.801 (best= 69.559, step=45, avg_reward=  1.262, worst=  0.430,  z-Pos=11.37639734832275, z-Vel=3.360913547467726, z-target=10.0)
+Episode =  178, score= 54.675 (best= 69.559, step=46, avg_reward=  1.189, worst=  0.430,  z-Pos=11.358374895543077, z-Vel=3.4358632968711222, z-target=10.0)
+Episode =  179, score= 49.564 (best= 69.559, step=35, avg_reward=  1.416, worst=  0.430,  z-Pos=11.364138599206301, z-Vel=2.817074203574494, z-target=10.0)
+Episode =  180, score= 53.050 (best= 69.559, step=39, avg_reward=  1.360, worst=  0.430,  z-Pos=11.316556406570262, z-Vel=3.2526601161469895, z-target=10.0)
+Episode =  181, score= 58.602 (best= 69.559, step=44, avg_reward=  1.332, worst=  0.430,  z-Pos=11.32227616111575, z-Vel=3.230656922648609, z-target=10.0)
+Episode =  182, score= 58.503 (best= 69.559, step=40, avg_reward=  1.463, worst=  0.430,  z-Pos=11.316255473231124, z-Vel=3.178551995664579, z-target=10.0)
+Episode =  183, score= 49.241 (best= 69.559, step=47, avg_reward=  1.048, worst=  0.430,  z-Pos=11.352949530511307, z-Vel=3.73234350857704, z-target=10.0)
+Episode =  184, score= 57.489 (best= 69.559, step=39, avg_reward=  1.474, worst=  0.430,  z-Pos=11.338899992880275, z-Vel=3.2081055520235213, z-target=10.0)
+Episode =  185, score= 60.651 (best= 69.559, step=43, avg_reward=  1.410, worst=  0.430,  z-Pos=11.327566568495207, z-Vel=3.1949642847446085, z-target=10.0)
+Episode =  186, score= 39.492 (best= 69.559, step=30, avg_reward=  1.316, worst=  0.430,  z-Pos=11.335250035321451, z-Vel=2.3532401886859438, z-target=10.0)
+Episode =  187, score= 62.822 (best= 69.559, step=41, avg_reward=  1.532, worst=  0.430,  z-Pos=11.341908364929616, z-Vel=3.187749322870086, z-target=10.0)
+Episode =  188, score= 58.723 (best= 69.559, step=40, avg_reward=  1.468, worst=  0.430,  z-Pos=11.359235915757926, z-Vel=2.9246749542000097, z-target=10.0)
+Episode =  189, score= 56.169 (best= 69.559, step=44, avg_reward=  1.277, worst=  0.430,  z-Pos=11.367920001244329, z-Vel=3.3421041572467227, z-target=10.0)
+Episode =  190, score= 47.851 (best= 69.559, step=34, avg_reward=  1.407, worst=  0.430,  z-Pos=11.368125774203614, z-Vel=2.817110691208265, z-target=10.0)
+Episode =  191, score= 58.900 (best= 69.559, step=40, avg_reward=  1.472, worst=  0.430,  z-Pos=11.3644271059827, z-Vel=3.2315887915829373, z-target=10.0)
+Episode =  192, score= 55.510 (best= 69.559, step=37, avg_reward=  1.500, worst=  0.430,  z-Pos=11.357393334538425, z-Vel=3.19165897481107, z-target=10.0)
+Episode =  193, score= 53.479 (best= 69.559, step=46, avg_reward=  1.163, worst=  0.430,  z-Pos=11.371716683852442, z-Vel=3.4829741890986736, z-target=10.0)
+Episode =  194, score= 59.578 (best= 69.559, step=40, avg_reward=  1.489, worst=  0.430,  z-Pos=11.366313119354812, z-Vel=3.0539330452651643, z-target=10.0)
+Episode =  195, score= 64.467 (best= 69.559, step=42, avg_reward=  1.535, worst=  0.430,  z-Pos=11.323737726056837, z-Vel=3.121809542201006, z-target=10.0)
+Episode =  196, score= 62.353 (best= 69.559, step=41, avg_reward=  1.521, worst=  0.430,  z-Pos=11.364813824305005, z-Vel=3.1888267145262046, z-target=10.0)
+Episode =  197, score= 49.791 (best= 69.559, step=35, avg_reward=  1.423, worst=  0.430,  z-Pos=11.329066440253744, z-Vel=2.7411919233846564, z-target=10.0)
+Episode =  198, score= 54.199 (best= 69.559, step=37, avg_reward=  1.465, worst=  0.430,  z-Pos=11.344553415821759, z-Vel=2.951225533898746, z-target=10.0)
+Episode =  199, score= 57.299 (best= 69.559, step=38, avg_reward=  1.508, worst=  0.430,  z-Pos=11.348564586419013, z-Vel=3.170261985714644, z-target=10.0)
+Episode =  200, score= 53.227 (best= 69.559, step=42, avg_reward=  1.267, worst=  0.430,  z-Pos=11.330130734228655, z-Vel=3.3594454854878664, z-target=10.0)
+Episode =  201, score= 67.583 (best= 69.559, step=44, avg_reward=  1.536, worst=  0.430,  z-Pos=11.353251921181363, z-Vel=3.1546007137563445, z-target=10.0)
+Episode =  202, score= 47.524 (best= 69.559, step=50, avg_reward=  0.950, worst=  0.430,  z-Pos=11.37355730543903, z-Vel=3.891629654865141, z-target=10.0)
+Episode =  203, score= 63.978 (best= 69.559, step=42, avg_reward=  1.523, worst=  0.430,  z-Pos=11.330653042642291, z-Vel=3.077954070418085, z-target=10.0)
+Episode =  204, score= 55.407 (best= 69.559, step=44, avg_reward=  1.259, worst=  0.430,  z-Pos=11.348196062467025, z-Vel=3.3261638442386525, z-target=10.0)
+Episode =  205, score= 57.820 (best= 69.559, step=39, avg_reward=  1.483, worst=  0.430,  z-Pos=11.338545197299236, z-Vel=2.967010746195285, z-target=10.0)
+Episode =  206, score= 49.125 (best= 69.559, step=35, avg_reward=  1.404, worst=  0.430,  z-Pos=11.357906843197672, z-Vel=2.7326836902881597, z-target=10.0)
+Episode =  207, score= 55.114 (best= 69.559, step=45, avg_reward=  1.225, worst=  0.430,  z-Pos=11.350244952379763, z-Vel=3.3649633575096334, z-target=10.0)
+Episode =  208, score= 58.336 (best= 69.559, step=39, avg_reward=  1.496, worst=  0.430,  z-Pos=11.33516250551451, z-Vel=3.0280428636469137, z-target=10.0)
+Episode =  209, score= 56.349 (best= 69.559, step=38, avg_reward=  1.483, worst=  0.430,  z-Pos=11.32492744822527, z-Vel=2.958340833403729, z-target=10.0)
+Episode =  210, score= 51.866 (best= 69.559, step=36, avg_reward=  1.441, worst=  0.430,  z-Pos=11.365603219415368, z-Vel=2.9190100663577208, z-target=10.0)
+Episode =  211, score= 56.748 (best= 69.559, step=47, avg_reward=  1.207, worst=  0.430,  z-Pos=11.330804777652048, z-Vel=3.3467938042815097, z-target=10.0)
+Episode =  212, score= 57.246 (best= 69.559, step=38, avg_reward=  1.506, worst=  0.430,  z-Pos=11.32256345411676, z-Vel=3.0827632783438714, z-target=10.0)
+Episode =  213, score= 50.784 (best= 69.559, step=45, avg_reward=  1.129, worst=  0.430,  z-Pos=11.352372996256047, z-Vel=3.5677786638383386, z-target=10.0)
+Episode =  214, score= 54.901 (best= 69.559, step=41, avg_reward=  1.339, worst=  0.430,  z-Pos=11.369147635259303, z-Vel=3.3111742215329585, z-target=10.0)
+Episode =  215, score= 58.354 (best= 69.559, step=44, avg_reward=  1.326, worst=  0.430,  z-Pos=11.34221026404177, z-Vel=3.2492106125715745, z-target=10.0)
+Episode =  216, score= 48.620 (best= 69.559, step=34, avg_reward=  1.430, worst=  0.430,  z-Pos=11.320545950325373, z-Vel=2.7857748990863773, z-target=10.0)
+Episode =  217, score= 45.314 (best= 69.559, step=33, avg_reward=  1.373, worst=  0.430,  z-Pos=11.324984552963654, z-Vel=2.529288443121697, z-target=10.0)
+Episode =  218, score= 52.417 (best= 69.559, step=41, avg_reward=  1.278, worst=  0.430,  z-Pos=11.337323511247044, z-Vel=3.3455845058430262, z-target=10.0)
+Episode =  219, score= 54.363 (best= 69.559, step=46, avg_reward=  1.182, worst=  0.430,  z-Pos=11.384525245947374, z-Vel=3.482815351423693, z-target=10.0)
+Episode =  220, score= 51.394 (best= 69.559, step=51, avg_reward=  1.008, worst=  0.430,  z-Pos=11.346937146978043, z-Vel=3.7313787089947965, z-target=10.0)
+Episode =  221, score= 66.237 (best= 69.559, step=43, avg_reward=  1.540, worst=  0.430,  z-Pos=11.350400733450869, z-Vel=3.1973371340353456, z-target=10.0)
+Episode =  222, score= 63.550 (best= 69.559, step=42, avg_reward=  1.513, worst=  0.430,  z-Pos=11.377841615552164, z-Vel=3.153410025291357, z-target=10.0)
+Episode =  223, score= 58.110 (best= 69.559, step=44, avg_reward=  1.321, worst=  0.430,  z-Pos=11.367309473598885, z-Vel=3.3012088187157045, z-target=10.0)
+Episode =  224, score= 55.888 (best= 69.559, step=38, avg_reward=  1.471, worst=  0.430,  z-Pos=11.333055164010318, z-Vel=2.917577338853921, z-target=10.0)
+Episode =  225, score= 48.237 (best= 69.559, step=34, avg_reward=  1.419, worst=  0.430,  z-Pos=11.370907118120797, z-Vel=2.8875779039821095, z-target=10.0)
+Episode =  226, score= 60.687 (best= 69.559, step=40, avg_reward=  1.517, worst=  0.430,  z-Pos=11.354618457381369, z-Vel=3.1715025450668386, z-target=10.0)
+Episode =  227, score= 52.767 (best= 69.559, step=54, avg_reward=  0.977, worst=  0.430,  z-Pos=11.377929633577821, z-Vel=3.757492148704819, z-target=10.0)
+Episode =  228, score= 59.336 (best= 69.559, step=39, avg_reward=  1.521, worst=  0.430,  z-Pos=11.345112077250551, z-Vel=3.2024978396648875, z-target=10.0)
+Episode =  229, score= 60.601 (best= 69.559, step=41, avg_reward=  1.478, worst=  0.430,  z-Pos=11.366363396378825, z-Vel=3.228205009945479, z-target=10.0)
+Episode =  230, score= 58.322 (best= 69.559, step=39, avg_reward=  1.495, worst=  0.430,  z-Pos=11.330919129591383, z-Vel=3.0137536541380374, z-target=10.0)
+Episode =  231, score= 62.042 (best= 69.559, step=41, avg_reward=  1.513, worst=  0.430,  z-Pos=11.34430928040811, z-Vel=3.089391515113056, z-target=10.0)
+Episode =  232, score= 52.883 (best= 69.559, step=37, avg_reward=  1.429, worst=  0.430,  z-Pos=11.356901910341797, z-Vel=2.8028850567229635, z-target=10.0)
+Episode =  233, score= 59.083 (best= 69.559, step=46, avg_reward=  1.284, worst=  0.430,  z-Pos=11.326346754267423, z-Vel=3.2648374520055046, z-target=10.0)
+Episode =  234, score= 54.419 (best= 69.559, step=43, avg_reward=  1.266, worst=  0.430,  z-Pos=11.372987702770471, z-Vel=3.3692286033582883, z-target=10.0)
+Episode =  235, score= 63.647 (best= 69.559, step=42, avg_reward=  1.515, worst=  0.430,  z-Pos=11.34231873599513, z-Vel=3.068316117557527, z-target=10.0)
+Episode =  236, score= 42.680 (best= 69.559, step=31, avg_reward=  1.377, worst=  0.430,  z-Pos=11.325152828747456, z-Vel=2.6122619431962084, z-target=10.0)
+Episode =  237, score= 47.035 (best= 69.559, step=34, avg_reward=  1.383, worst=  0.430,  z-Pos=11.35170557896129, z-Vel=2.639403598511307, z-target=10.0)
+Episode =  238, score= 51.602 (best= 69.559, step=43, avg_reward=  1.200, worst=  0.430,  z-Pos=11.357535009824403, z-Vel=3.487141729908489, z-target=10.0)
+Episode =  239, score= 48.092 (best= 69.559, step=34, avg_reward=  1.414, worst=  0.430,  z-Pos=11.323142428192014, z-Vel=2.7101275428912355, z-target=10.0)
+Episode =  240, score= 54.555 (best= 69.559, step=37, avg_reward=  1.474, worst=  0.430,  z-Pos=11.356838246260931, z-Vel=3.0413993688628085, z-target=10.0)
+Episode =  241, score= 56.282 (best= 69.559, step=47, avg_reward=  1.197, worst=  0.430,  z-Pos=11.371642414631893, z-Vel=3.39673886472028, z-target=10.0)
+Episode =  242, score= 52.638 (best= 69.559, step=48, avg_reward=  1.097, worst=  0.430,  z-Pos=11.342431542791354, z-Vel=3.5831243908571384, z-target=10.0)
+Episode =  243, score= 39.515 (best= 69.559, step=30, avg_reward=  1.317, worst=  0.430,  z-Pos=11.346125153477649, z-Vel=2.3956612664561425, z-target=10.0)
+Episode =  244, score= 55.554 (best= 69.559, step=37, avg_reward=  1.501, worst=  0.430,  z-Pos=11.324151301432693, z-Vel=3.094574162728693, z-target=10.0)
+Episode =  245, score= 55.411 (best= 69.559, step=38, avg_reward=  1.458, worst=  0.430,  z-Pos=11.365893864270276, z-Vel=2.9484569007421566, z-target=10.0)
+Episode =  246, score= 64.320 (best= 69.559, step=42, avg_reward=  1.531, worst=  0.430,  z-Pos=11.322557228513995, z-Vel=3.0994956344156583, z-target=10.0)
+Episode =  247, score= 52.279 (best= 69.559, step=46, avg_reward=  1.136, worst=  0.430,  z-Pos=11.380345114409891, z-Vel=3.5442428629159224, z-target=10.0)
+Episode =  248, score= 51.027 (best= 69.559, step=45, avg_reward=  1.134, worst=  0.430,  z-Pos=11.324702562157519, z-Vel=3.5471061474464385, z-target=10.0)
+Episode =  249, score= 58.148 (best= 69.559, step=39, avg_reward=  1.491, worst=  0.430,  z-Pos=11.345899631032491, z-Vel=3.03326462043121, z-target=10.0)
+Episode =  250, score= 57.966 (best= 69.559, step=44, avg_reward=  1.317, worst=  0.430,  z-Pos=11.379352925284811, z-Vel=3.315617851330113, z-target=10.0)
+Episode =  251, score= 57.216 (best= 69.559, step=41, avg_reward=  1.396, worst=  0.430,  z-Pos=11.330203966958114, z-Vel=3.222629584506943, z-target=10.0)
+Episode =  252, score= 55.477 (best= 69.559, step=46, avg_reward=  1.206, worst=  0.430,  z-Pos=11.380261649816413, z-Vel=3.407928181349402, z-target=10.0)
+Episode =  253, score= 50.176 (best= 69.559, step=35, avg_reward=  1.434, worst=  0.430,  z-Pos=11.371588738937803, z-Vel=2.934256895119421, z-target=10.0)
+Episode =  254, score= 50.605 (best= 69.559, step=41, avg_reward=  1.234, worst=  0.430,  z-Pos=11.32514065108692, z-Vel=3.4052182838778893, z-target=10.0)
+Episode =  255, score= 52.688 (best= 69.559, step=45, avg_reward=  1.171, worst=  0.430,  z-Pos=11.378352457038801, z-Vel=3.522915922269397, z-target=10.0)
+Episode =  256, score= 48.971 (best= 69.559, step=49, avg_reward=  0.999, worst=  0.430,  z-Pos=11.35132925077189, z-Vel=3.7799054231207516, z-target=10.0)
+Episode =  257, score= 59.060 (best= 69.559, step=39, avg_reward=  1.514, worst=  0.430,  z-Pos=11.36334130199388, z-Vel=3.2159545147009165, z-target=10.0)
+Episode =  258, score= 53.433 (best= 69.559, step=41, avg_reward=  1.303, worst=  0.430,  z-Pos=11.330709359811147, z-Vel=3.302300420351124, z-target=10.0)
+Episode =  259, score= 50.078 (best= 69.559, step=35, avg_reward=  1.431, worst=  0.430,  z-Pos=11.358061114442014, z-Vel=2.8761437994531236, z-target=10.0)
+Episode =  260, score= 57.645 (best= 69.559, step=42, avg_reward=  1.373, worst=  0.430,  z-Pos=11.360298695039639, z-Vel=3.26913818922106, z-target=10.0)
+Episode =  261, score= 58.920 (best= 69.559, step=44, avg_reward=  1.339, worst=  0.430,  z-Pos=11.378677661509752, z-Vel=3.2933559663245298, z-target=10.0)
+Episode =  262, score= 60.798 (best= 69.559, step=40, avg_reward=  1.520, worst=  0.430,  z-Pos=11.333888449773427, z-Vel=3.126829669891857, z-target=10.0)
+Episode =  263, score= 55.874 (best= 69.559, step=41, avg_reward=  1.363, worst=  0.430,  z-Pos=11.365276218867578, z-Vel=3.2841082812195608, z-target=10.0)
+Episode =  264, score= 57.214 (best= 69.559, step=47, avg_reward=  1.217, worst=  0.430,  z-Pos=11.378040256236154, z-Vel=3.3950925700941474, z-target=10.0)
+Episode =  265, score= 50.267 (best= 69.559, step=48, avg_reward=  1.047, worst=  0.430,  z-Pos=11.330575267707845, z-Vel=3.6612087045460657, z-target=10.0)
+Episode =  266, score= 53.912 (best= 69.559, step=50, avg_reward=  1.078, worst=  0.430,  z-Pos=11.342205701766986, z-Vel=3.5744444411276466, z-target=10.0)
+Episode =  267, score= 49.919 (best= 69.559, step=34, avg_reward=  1.468, worst=  0.430,  z-Pos=11.316684719426247, z-Vel=2.9914811838799373, z-target=10.0)
+Episode =  268, score= 58.141 (best= 69.559, step=39, avg_reward=  1.491, worst=  0.430,  z-Pos=11.36208146334643, z-Vel=3.079712447181752, z-target=10.0)
+Episode =  269, score= 58.513 (best= 69.559, step=43, avg_reward=  1.361, worst=  0.430,  z-Pos=11.346390675589303, z-Vel=3.2398140383163807, z-target=10.0)
+Episode =  270, score= 59.734 (best= 69.559, step=43, avg_reward=  1.389, worst=  0.430,  z-Pos=11.323023955498586, z-Vel=3.196198427214769, z-target=10.0)
+Episode =  271, score= 62.564 (best= 69.559, step=41, avg_reward=  1.526, worst=  0.430,  z-Pos=11.338459819477363, z-Vel=3.142547986385712, z-target=10.0)
+Episode =  272, score= 51.430 (best= 69.559, step=46, avg_reward=  1.118, worst=  0.430,  z-Pos=11.350336383003697, z-Vel=3.5648769256225803, z-target=10.0)
+Episode =  273, score= 52.954 (best= 69.559, step=46, avg_reward=  1.151, worst=  0.430,  z-Pos=11.32403285670193, z-Vel=3.445454013086249, z-target=10.0)
+Episode =  274, score= 57.026 (best= 69.559, step=39, avg_reward=  1.462, worst=  0.430,  z-Pos=11.34519750033363, z-Vel=2.8811970605170485, z-target=10.0)
+Episode =  275, score= 53.303 (best= 69.559, step=36, avg_reward=  1.481, worst=  0.430,  z-Pos=11.339579886691723, z-Vel=3.059517700384515, z-target=10.0)
+Episode =  276, score= 47.035 (best= 69.559, step=33, avg_reward=  1.425, worst=  0.430,  z-Pos=11.320518903639645, z-Vel=2.7949640903058426, z-target=10.0)
+Episode =  277, score= 53.990 (best= 69.559, step=46, avg_reward=  1.174, worst=  0.430,  z-Pos=11.327436695955033, z-Vel=3.4137752125717893, z-target=10.0)
+Episode =  278, score= 51.843 (best= 69.559, step=37, avg_reward=  1.401, worst=  0.430,  z-Pos=11.359227312857282, z-Vel=2.6720894491239617, z-target=10.0)
+Episode =  279, score= 52.840 (best= 69.559, step=43, avg_reward=  1.229, worst=  0.430,  z-Pos=11.338546044587245, z-Vel=3.3853809817447202, z-target=10.0)
+Episode =  280, score= 57.569 (best= 69.559, step=39, avg_reward=  1.476, worst=  0.430,  z-Pos=11.319884081185865, z-Vel=2.8798194745381465, z-target=10.0)
+Episode =  281, score= 51.416 (best= 69.559, step=36, avg_reward=  1.428, worst=  0.430,  z-Pos=11.355486041069623, z-Vel=2.8220439142653446, z-target=10.0)
+Episode =  282, score= 57.267 (best= 69.559, step=41, avg_reward=  1.397, worst=  0.430,  z-Pos=11.328104589542262, z-Vel=3.2268026616747942, z-target=10.0)
+Episode =  283, score= 59.574 (best= 69.559, step=40, avg_reward=  1.489, worst=  0.430,  z-Pos=11.341412551930285, z-Vel=2.98293125960389, z-target=10.0)
+Episode =  284, score= 56.555 (best= 69.559, step=42, avg_reward=  1.347, worst=  0.430,  z-Pos=11.371824594715003, z-Vel=3.2973250577925906, z-target=10.0)
+Episode =  285, score= 64.395 (best= 69.559, step=42, avg_reward=  1.533, worst=  0.430,  z-Pos=11.329630067337224, z-Vel=3.1287940550581608, z-target=10.0)
+Episode =  286, score= 50.254 (best= 69.559, step=43, avg_reward=  1.169, worst=  0.430,  z-Pos=11.383125005272525, z-Vel=3.5835065650167963, z-target=10.0)
+Episode =  287, score= 58.688 (best= 69.559, step=45, avg_reward=  1.304, worst=  0.430,  z-Pos=11.377718061986336, z-Vel=3.297980212530689, z-target=10.0)
+Episode =  288, score= 51.069 (best= 69.559, step=45, avg_reward=  1.135, worst=  0.430,  z-Pos=11.324178208137363, z-Vel=3.534081930734451, z-target=10.0)
+Episode =  289, score= 60.609 (best= 69.559, step=40, avg_reward=  1.515, worst=  0.430,  z-Pos=11.374817899099645, z-Vel=3.2193503540846344, z-target=10.0)
+Episode =  290, score= 50.816 (best= 69.559, step=51, avg_reward=  0.996, worst=  0.430,  z-Pos=11.375768211281649, z-Vel=3.7994457897830785, z-target=10.0)
+Episode =  291, score= 54.028 (best= 69.559, step=37, avg_reward=  1.460, worst=  0.430,  z-Pos=11.341162442378947, z-Vel=2.9161080626440317, z-target=10.0)
+Episode =  292, score= 54.449 (best= 69.559, step=46, avg_reward=  1.184, worst=  0.430,  z-Pos=11.379905356041666, z-Vel=3.450616013561469, z-target=10.0)
+Episode =  293, score= 63.019 (best= 69.559, step=42, avg_reward=  1.500, worst=  0.430,  z-Pos=11.374392350179882, z-Vel=3.0781873034009792, z-target=10.0)
+Episode =  294, score= 61.272 (best= 69.559, step=40, avg_reward=  1.532, worst=  0.430,  z-Pos=11.321433199181076, z-Vel=3.158068051210563, z-target=10.0)
+Episode =  295, score= 39.102 (best= 69.559, step=30, avg_reward=  1.303, worst=  0.430,  z-Pos=11.359795537285388, z-Vel=2.3712125383555476, z-target=10.0)
+Episode =  296, score= 54.530 (best= 69.559, step=41, avg_reward=  1.330, worst=  0.430,  z-Pos=11.31707817835048, z-Vel=3.259393808387831, z-target=10.0)
+Episode =  297, score= 53.287 (best= 69.559, step=38, avg_reward=  1.402, worst=  0.430,  z-Pos=11.346541656486083, z-Vel=2.6195616656944716, z-target=10.0)
+Episode =  298, score= 59.100 (best= 69.559, step=43, avg_reward=  1.374, worst=  0.430,  z-Pos=11.37830328981218, z-Vel=3.2700326226717715, z-target=10.0)
+Episode =  299, score= 52.675 (best= 69.559, step=48, avg_reward=  1.097, worst=  0.430,  z-Pos=11.342948460580077, z-Vel=3.5742620130007765, z-target=10.0)
+Episode =  300, score= 54.037 (best= 69.559, step=38, avg_reward=  1.422, worst=  0.430,  z-Pos=11.35388737028878, z-Vel=2.7332389050482044, z-target=10.0)
+Episode =  301, score= 55.367 (best= 69.559, step=38, avg_reward=  1.457, worst=  0.430,  z-Pos=11.360210841995038, z-Vel=2.925793387702999, z-target=10.0)
+Episode =  302, score= 52.214 (best= 69.559, step=36, avg_reward=  1.450, worst=  0.430,  z-Pos=11.357844188435596, z-Vel=2.947098919462943, z-target=10.0)
+Episode =  303, score= 62.934 (best= 69.559, step=44, avg_reward=  1.430, worst=  0.430,  z-Pos=11.362390324088034, z-Vel=3.224950721207782, z-target=10.0)
+Episode =  304, score= 54.823 (best= 69.559, step=45, avg_reward=  1.218, worst=  0.430,  z-Pos=11.37588404013045, z-Vel=3.4063394706365515, z-target=10.0)
+Episode =  305, score= 56.557 (best= 69.559, step=46, avg_reward=  1.230, worst=  0.430,  z-Pos=11.373564221000903, z-Vel=3.3674362483148177, z-target=10.0)
+Episode =  306, score= 52.056 (best= 69.559, step=45, avg_reward=  1.157, worst=  0.430,  z-Pos=11.338729902648383, z-Vel=3.500196839559408, z-target=10.0)
+Episode =  307, score= 53.342 (best= 69.559, step=42, avg_reward=  1.270, worst=  0.430,  z-Pos=11.317924993372563, z-Vel=3.3217760981781637, z-target=10.0)
+Episode =  308, score= 59.214 (best= 69.559, step=43, avg_reward=  1.377, worst=  0.430,  z-Pos=11.367160155746554, z-Vel=3.2514240022401566, z-target=10.0)
+Episode =  309, score= 58.083 (best= 69.559, step=44, avg_reward=  1.320, worst=  0.430,  z-Pos=11.368698370412437, z-Vel=3.2985253794184937, z-target=10.0)
+Episode =  310, score= 58.060 (best= 69.559, step=39, avg_reward=  1.489, worst=  0.430,  z-Pos=11.348616762906278, z-Vel=3.029130279455217, z-target=10.0)
+Episode =  311, score= 61.923 (best= 69.559, step=41, avg_reward=  1.510, worst=  0.430,  z-Pos=11.336436429253903, z-Vel=3.186131952103578, z-target=10.0)
+Episode =  312, score= 64.021 (best= 69.559, step=42, avg_reward=  1.524, worst=  0.430,  z-Pos=11.357263326723816, z-Vel=3.156855079916405, z-target=10.0)
+Episode =  313, score= 43.926 (best= 69.559, step=32, avg_reward=  1.373, worst=  0.430,  z-Pos=11.34011327642538, z-Vel=2.6071488039618673, z-target=10.0)
+Episode =  314, score= 51.976 (best= 69.559, step=43, avg_reward=  1.209, worst=  0.430,  z-Pos=11.323437909215032, z-Vel=3.429574728695057, z-target=10.0)
+Episode =  315, score= 50.626 (best= 69.559, step=45, avg_reward=  1.125, worst=  0.430,  z-Pos=11.364961159479607, z-Vel=3.5930095966414584, z-target=10.0)
+Episode =  316, score= 43.704 (best= 69.559, step=32, avg_reward=  1.366, worst=  0.430,  z-Pos=11.318438552190063, z-Vel=2.497573319390107, z-target=10.0)
+Episode =  317, score= 54.481 (best= 69.559, step=43, avg_reward=  1.267, worst=  0.430,  z-Pos=11.368354215239028, z-Vel=3.3720151184249505, z-target=10.0)
+Episode =  318, score= 52.512 (best= 69.559, step=46, avg_reward=  1.142, worst=  0.430,  z-Pos=11.350753806936458, z-Vel=3.5388111735215015, z-target=10.0)
+Episode =  319, score= 58.313 (best= 69.559, step=41, avg_reward=  1.422, worst=  0.430,  z-Pos=11.316702782204127, z-Vel=3.191373266056872, z-target=10.0)
+Episode =  320, score= 56.584 (best= 69.559, step=44, avg_reward=  1.286, worst=  0.430,  z-Pos=11.330567124499956, z-Vel=3.284458441970737, z-target=10.0)
+Episode =  321, score= 54.828 (best= 69.559, step=45, avg_reward=  1.218, worst=  0.430,  z-Pos=11.37551683603178, z-Vel=3.4022646428332592, z-target=10.0)
+Episode =  322, score= 62.472 (best= 69.559, step=41, avg_reward=  1.524, worst=  0.430,  z-Pos=11.328027345083436, z-Vel=3.100531983950205, z-target=10.0)
+Episode =  323, score= 57.765 (best= 69.559, step=39, avg_reward=  1.481, worst=  0.430,  z-Pos=11.368904809629534, z-Vel=3.04773517310246, z-target=10.0)
+Episode =  324, score= 61.009 (best= 69.559, step=40, avg_reward=  1.525, worst=  0.430,  z-Pos=11.322488075992863, z-Vel=3.1235578514648554, z-target=10.0)
+Episode =  325, score= 50.920 (best= 69.559, step=47, avg_reward=  1.083, worst=  0.430,  z-Pos=11.347959511027202, z-Vel=3.601564317027393, z-target=10.0)
+Episode =  326, score= 50.878 (best= 69.559, step=40, avg_reward=  1.272, worst=  0.430,  z-Pos=11.3275601810499, z-Vel=3.3889223404414412, z-target=10.0)
+Episode =  327, score= 50.030 (best= 69.559, step=36, avg_reward=  1.390, worst=  0.430,  z-Pos=11.35525299413003, z-Vel=2.6290728777870105, z-target=10.0)
+Episode =  328, score= 55.469 (best= 69.559, step=43, avg_reward=  1.290, worst=  0.430,  z-Pos=11.364252470164597, z-Vel=3.325778051167878, z-target=10.0)
+Episode =  329, score= 62.244 (best= 69.559, step=43, avg_reward=  1.448, worst=  0.430,  z-Pos=11.354960346414511, z-Vel=3.212252228177961, z-target=10.0)
+Episode =  330, score= 59.918 (best= 69.559, step=40, avg_reward=  1.498, worst=  0.430,  z-Pos=11.343851902313322, z-Vel=3.0350810397575922, z-target=10.0)
+Episode =  331, score= 52.417 (best= 69.559, step=47, avg_reward=  1.115, worst=  0.430,  z-Pos=11.316752094492953, z-Vel=3.5202419012439083, z-target=10.0)
+Episode =  332, score= 51.742 (best= 69.559, step=50, avg_reward=  1.035, worst=  0.430,  z-Pos=11.319029476751263, z-Vel=3.6140960625885223, z-target=10.0)
+Episode =  333, score= 56.098 (best= 69.559, step=45, avg_reward=  1.247, worst=  0.430,  z-Pos=11.351537717241978, z-Vel=3.3534701594485417, z-target=10.0)
+Episode =  334, score= 51.271 (best= 69.559, step=35, avg_reward=  1.465, worst=  0.430,  z-Pos=11.324839352228125, z-Vel=2.9595503938891414, z-target=10.0)
+Episode =  335, score= 50.088 (best= 69.559, step=35, avg_reward=  1.431, worst=  0.430,  z-Pos=11.347822743625601, z-Vel=2.8452743036173995, z-target=10.0)
+Episode =  336, score= 57.259 (best= 69.559, step=43, avg_reward=  1.332, worst=  0.430,  z-Pos=11.376662012177675, z-Vel=3.3111214214248967, z-target=10.0)
+Episode =  337, score= 47.047 (best= 69.559, step=34, avg_reward=  1.384, worst=  0.430,  z-Pos=11.33040679834067, z-Vel=2.5735819810514355, z-target=10.0)
+Episode =  338, score= 62.403 (best= 69.559, step=41, avg_reward=  1.522, worst=  0.430,  z-Pos=11.361836729249045, z-Vel=3.187166651670731, z-target=10.0)
+Episode =  339, score= 63.508 (best= 69.559, step=42, avg_reward=  1.512, worst=  0.430,  z-Pos=11.369247113002539, z-Vel=3.124545389469658, z-target=10.0)
+Episode =  340, score= 60.040 (best= 69.559, step=43, avg_reward=  1.396, worst=  0.430,  z-Pos=11.378789379213416, z-Vel=3.2578146341374805, z-target=10.0)
+Episode =  341, score= 51.696 (best= 69.559, step=45, avg_reward=  1.149, worst=  0.430,  z-Pos=11.368037843009425, z-Vel=3.5586928121451984, z-target=10.0)
+Episode =  342, score= 53.215 (best= 69.559, step=36, avg_reward=  1.478, worst=  0.430,  z-Pos=11.323790274352108, z-Vel=2.9954392751940215, z-target=10.0)
+Episode =  343, score= 50.125 (best= 69.559, step=35, avg_reward=  1.432, worst=  0.430,  z-Pos=11.320312472292557, z-Vel=2.764199052431227, z-target=10.0)
+Episode =  344, score= 55.275 (best= 69.559, step=42, avg_reward=  1.316, worst=  0.430,  z-Pos=11.316660883498841, z-Vel=3.2628829852958994, z-target=10.0)
+Episode =  345, score= 51.625 (best= 69.559, step=47, avg_reward=  1.098, worst=  0.430,  z-Pos=11.379442027077873, z-Vel=3.6318574210942685, z-target=10.0)
+Episode =  346, score= 56.754 (best= 69.559, step=39, avg_reward=  1.455, worst=  0.430,  z-Pos=11.369685768685901, z-Vel=2.916009345123748, z-target=10.0)
+Episode =  347, score= 58.231 (best= 69.559, step=43, avg_reward=  1.354, worst=  0.430,  z-Pos=11.370463470915524, z-Vel=3.2702163382072063, z-target=10.0)
+Episode =  348, score= 54.888 (best= 69.559, step=48, avg_reward=  1.143, worst=  0.430,  z-Pos=11.364635414907617, z-Vel=3.478618260354586, z-target=10.0)
+Episode =  349, score= 51.257 (best= 69.559, step=44, avg_reward=  1.165, worst=  0.430,  z-Pos=11.350779041457633, z-Vel=3.5279764838769583, z-target=10.0)
+Episode =  350, score= 55.277 (best= 69.559, step=48, avg_reward=  1.152, worst=  0.430,  z-Pos=11.331069139351778, z-Vel=3.431690826158135, z-target=10.0)
+Episode =  351, score= 51.856 (best= 69.559, step=45, avg_reward=  1.152, worst=  0.430,  z-Pos=11.354874537466221, z-Vel=3.533406010792939, z-target=10.0)
+Episode =  352, score= 58.216 (best= 69.559, step=44, avg_reward=  1.323, worst=  0.430,  z-Pos=11.358028766451048, z-Vel=3.288617165067591, z-target=10.0)
+Episode =  353, score= 55.502 (best= 69.559, step=40, avg_reward=  1.388, worst=  0.430,  z-Pos=11.331633396440019, z-Vel=3.2372995907638322, z-target=10.0)
+Episode =  354, score= 63.991 (best= 69.559, step=42, avg_reward=  1.524, worst=  0.430,  z-Pos=11.351128101007864, z-Vel=3.1360041090465502, z-target=10.0)
+Episode =  355, score= 56.262 (best= 69.559, step=38, avg_reward=  1.481, worst=  0.430,  z-Pos=11.34356403683408, z-Vel=3.0014006499192214, z-target=10.0)
+Episode =  356, score= 56.153 (best= 69.559, step=41, avg_reward=  1.370, worst=  0.430,  z-Pos=11.340355742329578, z-Vel=3.2500056208464194, z-target=10.0)
+Episode =  357, score= 55.735 (best= 69.559, step=43, avg_reward=  1.296, worst=  0.430,  z-Pos=11.34084230262441, z-Vel=3.295455261590302, z-target=10.0)
+Episode =  358, score= 45.861 (best= 69.559, step=33, avg_reward=  1.390, worst=  0.430,  z-Pos=11.319521322177382, z-Vel=2.597754768582268, z-target=10.0)
+Episode =  359, score= 57.875 (best= 69.559, step=45, avg_reward=  1.286, worst=  0.430,  z-Pos=11.367861933189479, z-Vel=3.324548672275489, z-target=10.0)
+Episode =  360, score= 52.169 (best= 69.559, step=44, avg_reward=  1.186, worst=  0.430,  z-Pos=11.367907364115174, z-Vel=3.4880675219730066, z-target=10.0)
+Episode =  361, score= 59.000 (best= 69.559, step=44, avg_reward=  1.341, worst=  0.430,  z-Pos=11.370265180452904, z-Vel=3.276274596634977, z-target=10.0)
+Episode =  362, score= 64.236 (best= 69.559, step=42, avg_reward=  1.529, worst=  0.430,  z-Pos=11.34778821182086, z-Vel=3.1583718106996246, z-target=10.0)
+Episode =  363, score= 54.942 (best= 69.559, step=43, avg_reward=  1.278, worst=  0.430,  z-Pos=11.325983200109235, z-Vel=3.3043937229143605, z-target=10.0)
+Episode =  364, score= 53.368 (best= 69.559, step=47, avg_reward=  1.135, worst=  0.430,  z-Pos=11.339012784738577, z-Vel=3.4947853422599917, z-target=10.0)
+Episode =  365, score= 58.497 (best= 69.559, step=43, avg_reward=  1.360, worst=  0.430,  z-Pos=11.35013308055611, z-Vel=3.2529030319629526, z-target=10.0)
+Episode =  366, score= 62.329 (best= 69.559, step=41, avg_reward=  1.520, worst=  0.430,  z-Pos=11.343221018089555, z-Vel=3.124385602093618, z-target=10.0)
+Episode =  367, score= 46.847 (best= 69.559, step=34, avg_reward=  1.378, worst=  0.430,  z-Pos=11.364653029576438, z-Vel=2.6522865931141975, z-target=10.0)
+Episode =  368, score= 56.295 (best= 69.559, step=41, avg_reward=  1.373, worst=  0.430,  z-Pos=11.331560717775378, z-Vel=3.2511419160584647, z-target=10.0)
+Episode =  369, score= 57.179 (best= 69.559, step=40, avg_reward=  1.429, worst=  0.430,  z-Pos=11.36607479835978, z-Vel=2.7588794590704016, z-target=10.0)
+Episode =  370, score= 67.769 (best= 69.559, step=44, avg_reward=  1.540, worst=  0.430,  z-Pos=11.356844897617464, z-Vel=3.1865977404763317, z-target=10.0)
+Episode =  371, score= 57.500 (best= 69.559, step=38, avg_reward=  1.513, worst=  0.430,  z-Pos=11.322136655358712, z-Vel=3.1203124583686135, z-target=10.0)
+Episode =  372, score= 54.219 (best= 69.559, step=44, avg_reward=  1.232, worst=  0.430,  z-Pos=11.36729090282532, z-Vel=3.4181912362245894, z-target=10.0)
+Episode =  373, score= 53.609 (best= 69.559, step=46, avg_reward=  1.165, worst=  0.430,  z-Pos=11.361845979559437, z-Vel=3.459284136938226, z-target=10.0)
+Episode =  374, score= 60.276 (best= 69.559, step=40, avg_reward=  1.507, worst=  0.430,  z-Pos=11.339612582433142, z-Vel=3.071090910717252, z-target=10.0)
+Episode =  375, score= 54.369 (best= 69.559, step=37, avg_reward=  1.469, worst=  0.430,  z-Pos=11.353687198175882, z-Vel=3.0040417745306995, z-target=10.0)
+Episode =  376, score= 57.742 (best= 69.559, step=38, avg_reward=  1.520, worst=  0.430,  z-Pos=11.319950279270753, z-Vel=3.151198235670979, z-target=10.0)
+Episode =  377, score= 38.041 (best= 69.559, step=29, avg_reward=  1.312, worst=  0.430,  z-Pos=11.321350853269605, z-Vel=2.307795770537595, z-target=10.0)
+Episode =  378, score= 60.717 (best= 69.559, step=40, avg_reward=  1.518, worst=  0.430,  z-Pos=11.363158118471588, z-Vel=3.2005687602674016, z-target=10.0)
+Episode =  379, score= 52.718 (best= 69.559, step=47, avg_reward=  1.122, worst=  0.430,  z-Pos=11.386124547768754, z-Vel=3.597045512104005, z-target=10.0)
+Episode =  380, score= 60.026 (best= 69.559, step=41, avg_reward=  1.464, worst=  0.430,  z-Pos=11.332659799194964, z-Vel=3.191052055695526, z-target=10.0)
+Episode =  381, score= 53.923 (best= 69.559, step=45, avg_reward=  1.198, worst=  0.430,  z-Pos=11.363230055188463, z-Vel=3.4573361094617283, z-target=10.0)
+Episode =  382, score= 58.992 (best= 69.559, step=39, avg_reward=  1.513, worst=  0.430,  z-Pos=11.35695198641853, z-Vel=3.1866632021214643, z-target=10.0)
+Episode =  383, score= 55.334 (best= 69.559, step=37, avg_reward=  1.496, worst=  0.430,  z-Pos=11.32812626313918, z-Vel=3.0722799801662655, z-target=10.0)
+Episode =  384, score= 52.739 (best= 69.559, step=36, avg_reward=  1.465, worst=  0.430,  z-Pos=11.352259450180167, z-Vel=3.010265977451923, z-target=10.0)
+Episode =  385, score= 72.260 (best= 72.260, step=47, avg_reward=  1.537, worst=  0.430,  z-Pos=11.35825299986832, z-Vel=3.1091646833625988, z-target=10.0)
+Episode =  386, score= 48.325 (best= 72.260, step=45, avg_reward=  1.074, worst=  0.430,  z-Pos=11.355254508474145, z-Vel=3.6932801189384263, z-target=10.0)
+Episode =  387, score= 52.494 (best= 72.260, step=46, avg_reward=  1.141, worst=  0.430,  z-Pos=11.360313041538422, z-Vel=3.519462846776552, z-target=10.0)
+Episode =  388, score= 61.055 (best= 72.260, step=41, avg_reward=  1.489, worst=  0.430,  z-Pos=11.373718376994718, z-Vel=3.045023547956608, z-target=10.0)
+Episode =  389, score= 66.160 (best= 72.260, step=43, avg_reward=  1.539, worst=  0.430,  z-Pos=11.342431754875033, z-Vel=3.1658406203060014, z-target=10.0)
+Episode =  390, score= 65.283 (best= 72.260, step=43, avg_reward=  1.518, worst=  0.430,  z-Pos=11.354132158345587, z-Vel=3.0893321227321002, z-target=10.0)
+Episode =  391, score= 62.657 (best= 72.260, step=41, avg_reward=  1.528, worst=  0.430,  z-Pos=11.328376524319484, z-Vel=3.1264671452138755, z-target=10.0)
+Episode =  392, score= 55.813 (best= 72.260, step=43, avg_reward=  1.298, worst=  0.430,  z-Pos=11.335558884858756, z-Vel=3.299804704241489, z-target=10.0)
+Episode =  393, score= 60.366 (best= 72.260, step=40, avg_reward=  1.509, worst=  0.430,  z-Pos=11.327653030706841, z-Vel=3.0490798774197394, z-target=10.0)
+Episode =  394, score= 51.667 (best= 72.260, step=47, avg_reward=  1.099, worst=  0.430,  z-Pos=11.370294995462134, z-Vel=3.6340494620060135, z-target=10.0)
+Episode =  395, score= 62.601 (best= 72.260, step=41, avg_reward=  1.527, worst=  0.430,  z-Pos=11.32375338843346, z-Vel=3.1058334020785265, z-target=10.0)
+Episode =  396, score= 54.921 (best= 72.260, step=45, avg_reward=  1.220, worst=  0.430,  z-Pos=11.366604111292386, z-Vel=3.420121769319633, z-target=10.0)
+Episode =  397, score= 54.049 (best= 72.260, step=48, avg_reward=  1.126, worst=  0.430,  z-Pos=11.33026109635484, z-Vel=3.5020674509079064, z-target=10.0)
+Episode =  398, score= 61.536 (best= 72.260, step=46, avg_reward=  1.338, worst=  0.430,  z-Pos=11.364203090846315, z-Vel=3.2571688638687997, z-target=10.0)
+Episode =  399, score= 60.943 (best= 72.260, step=40, avg_reward=  1.524, worst=  0.430,  z-Pos=11.351164977745109, z-Vel=3.197846784207083, z-target=10.0)
+Episode =  400, score= 61.032 (best= 72.260, step=40, avg_reward=  1.526, worst=  0.430,  z-Pos=11.326247640751681, z-Vel=3.13769073199378, z-target=10.0)
+Episode =  401, score= 50.727 (best= 72.260, step=36, avg_reward=  1.409, worst=  0.430,  z-Pos=11.32745450996162, z-Vel=2.640281881323507, z-target=10.0)
+Episode =  402, score= 56.735 (best= 72.260, step=45, avg_reward=  1.261, worst=  0.430,  z-Pos=11.381466663170059, z-Vel=3.3595241097065944, z-target=10.0)
+Episode =  403, score= 55.729 (best= 72.260, step=49, avg_reward=  1.137, worst=  0.430,  z-Pos=11.34542626240523, z-Vel=3.469155305060848, z-target=10.0)
+Episode =  404, score= 57.807 (best= 72.260, step=38, avg_reward=  1.521, worst=  0.430,  z-Pos=11.325609243682186, z-Vel=3.1788517129160376, z-target=10.0)
+Episode =  405, score= 64.362 (best= 72.260, step=42, avg_reward=  1.532, worst=  0.430,  z-Pos=11.342569138132493, z-Vel=3.160339784373793, z-target=10.0)
+Episode =  406, score= 61.748 (best= 72.260, step=41, avg_reward=  1.506, worst=  0.430,  z-Pos=11.376738677974314, z-Vel=3.1420475681324973, z-target=10.0)
+Episode =  407, score= 57.580 (best= 72.260, step=47, avg_reward=  1.225, worst=  0.430,  z-Pos=11.347376389738239, z-Vel=3.3325920167052474, z-target=10.0)
+Episode =  408, score= 48.642 (best= 72.260, step=34, avg_reward=  1.431, worst=  0.430,  z-Pos=11.343893381073567, z-Vel=2.8652758668236378, z-target=10.0)
+Episode =  409, score= 62.407 (best= 72.260, step=41, avg_reward=  1.522, worst=  0.430,  z-Pos=11.33760697613127, z-Vel=3.1188981807113807, z-target=10.0)
+Episode =  410, score= 53.106 (best= 72.260, step=36, avg_reward=  1.475, worst=  0.430,  z-Pos=11.3315056004166, z-Vel=3.002553361083695, z-target=10.0)
+Episode =  411, score= 55.033 (best= 72.260, step=43, avg_reward=  1.280, worst=  0.430,  z-Pos=11.317346960576634, z-Vel=3.2884726568310882, z-target=10.0)
+Episode =  412, score= 49.964 (best= 72.260, step=48, avg_reward=  1.041, worst=  0.430,  z-Pos=11.352239407687534, z-Vel=3.7021441892868645, z-target=10.0)
+Episode =  413, score= 51.674 (best= 72.260, step=49, avg_reward=  1.055, worst=  0.430,  z-Pos=11.380745527365907, z-Vel=3.6613850809825728, z-target=10.0)
+Episode =  414, score= 57.916 (best= 72.260, step=39, avg_reward=  1.485, worst=  0.430,  z-Pos=11.35804284612736, z-Vel=3.0367442502836117, z-target=10.0)
+Episode =  415, score= 57.342 (best= 72.260, step=39, avg_reward=  1.470, worst=  0.430,  z-Pos=11.349910992831608, z-Vel=3.2185278957581143, z-target=10.0)
+Episode =  416, score= 52.766 (best= 72.260, step=36, avg_reward=  1.466, worst=  0.430,  z-Pos=11.350603041720774, z-Vel=3.0092228282823092, z-target=10.0)
+Episode =  417, score= 50.098 (best= 72.260, step=41, avg_reward=  1.222, worst=  0.430,  z-Pos=11.373494855021912, z-Vel=3.490386034241837, z-target=10.0)
+Episode =  418, score= 53.389 (best= 72.260, step=44, avg_reward=  1.213, worst=  0.430,  z-Pos=11.350709424316582, z-Vel=3.429982629149703, z-target=10.0)
+Episode =  419, score= 57.890 (best= 72.260, step=39, avg_reward=  1.484, worst=  0.430,  z-Pos=11.32015496507235, z-Vel=2.9234041943206757, z-target=10.0)
+Episode =  420, score= 57.924 (best= 72.260, step=39, avg_reward=  1.485, worst=  0.430,  z-Pos=11.319532064873165, z-Vel=2.926148230672973, z-target=10.0)
+Episode =  421, score= 60.437 (best= 72.260, step=40, avg_reward=  1.511, worst=  0.430,  z-Pos=11.346290782526612, z-Vel=3.11245450940607, z-target=10.0)
+Episode =  422, score= 60.337 (best= 72.260, step=40, avg_reward=  1.508, worst=  0.430,  z-Pos=11.35166958774986, z-Vel=3.1141864318443506, z-target=10.0)
+Episode =  423, score= 51.067 (best= 72.260, step=35, avg_reward=  1.459, worst=  0.430,  z-Pos=11.318266971246409, z-Vel=2.9053048728681414, z-target=10.0)
+Episode =  424, score= 46.337 (best= 72.260, step=34, avg_reward=  1.363, worst=  0.430,  z-Pos=11.358727895298038, z-Vel=2.5585260769078073, z-target=10.0)
+Episode =  425, score= 50.860 (best= 72.260, step=35, avg_reward=  1.453, worst=  0.430,  z-Pos=11.349017125053567, z-Vel=2.9705762540497997, z-target=10.0)
+Episode =  426, score= 52.708 (best= 72.260, step=43, avg_reward=  1.226, worst=  0.430,  z-Pos=11.350501951747647, z-Vel=3.423037042399647, z-target=10.0)
+Episode =  427, score= 54.588 (best= 72.260, step=47, avg_reward=  1.161, worst=  0.430,  z-Pos=11.33672382606658, z-Vel=3.4164982792663587, z-target=10.0)
+Episode =  428, score= 50.166 (best= 72.260, step=35, avg_reward=  1.433, worst=  0.430,  z-Pos=11.364615933428924, z-Vel=2.910560039595276, z-target=10.0)
+Episode =  429, score= 46.603 (best= 72.260, step=33, avg_reward=  1.412, worst=  0.430,  z-Pos=11.325823774471864, z-Vel=2.73980036184765, z-target=10.0)
+Episode =  430, score= 56.569 (best= 72.260, step=42, avg_reward=  1.347, worst=  0.430,  z-Pos=11.37302833424799, z-Vel=3.307907992832498, z-target=10.0)
+Episode =  431, score= 54.333 (best= 72.260, step=37, avg_reward=  1.468, worst=  0.430,  z-Pos=11.340114523083784, z-Vel=2.957404945069048, z-target=10.0)
+Episode =  432, score= 55.075 (best= 72.260, step=37, avg_reward=  1.489, worst=  0.430,  z-Pos=11.316226462250315, z-Vel=2.9954811670914445, z-target=10.0)
+Episode =  433, score= 52.982 (best= 72.260, step=48, avg_reward=  1.104, worst=  0.430,  z-Pos=11.32999641039832, z-Vel=3.5190055642371734, z-target=10.0)
+Episode =  434, score= 51.683 (best= 72.260, step=45, avg_reward=  1.149, worst=  0.430,  z-Pos=11.370369416571869, z-Vel=3.556680487389375, z-target=10.0)
+Episode =  435, score= 55.835 (best= 72.260, step=45, avg_reward=  1.241, worst=  0.430,  z-Pos=11.374656870839592, z-Vel=3.387066312087753, z-target=10.0)
+Episode =  436, score= 57.803 (best= 72.260, step=39, avg_reward=  1.482, worst=  0.430,  z-Pos=11.358645842137491, z-Vel=3.0230701155289985, z-target=10.0)
+Episode =  437, score= 51.758 (best= 72.260, step=46, avg_reward=  1.125, worst=  0.430,  z-Pos=11.320776773539057, z-Vel=3.5217503269887276, z-target=10.0)
+Episode =  438, score= 52.001 (best= 72.260, step=36, avg_reward=  1.444, worst=  0.430,  z-Pos=11.360126895247754, z-Vel=2.9221940357865823, z-target=10.0)
+Episode =  439, score= 57.237 (best= 72.260, step=39, avg_reward=  1.468, worst=  0.430,  z-Pos=11.325949591253869, z-Vel=2.8537631779962043, z-target=10.0)
+Episode =  440, score= 58.539 (best= 72.260, step=39, avg_reward=  1.501, worst=  0.430,  z-Pos=11.345593764848214, z-Vel=3.087321573785521, z-target=10.0)
+Episode =  441, score= 52.644 (best= 72.260, step=48, avg_reward=  1.097, worst=  0.430,  z-Pos=11.344910524225117, z-Vel=3.5789937591685037, z-target=10.0)
+Episode =  442, score= 64.793 (best= 72.260, step=43, avg_reward=  1.507, worst=  0.430,  z-Pos=11.372475200014643, z-Vel=3.08003235959754, z-target=10.0)
+Episode =  443, score= 50.012 (best= 72.260, step=46, avg_reward=  1.087, worst=  0.430,  z-Pos=11.370007745975904, z-Vel=3.6485783155868474, z-target=10.0)
+Episode =  444, score= 53.205 (best= 72.260, step=41, avg_reward=  1.298, worst=  0.430,  z-Pos=11.351674628195088, z-Vel=3.3316978678561746, z-target=10.0)
+Episode =  445, score= 57.511 (best= 72.260, step=39, avg_reward=  1.475, worst=  0.430,  z-Pos=11.342357277456397, z-Vel=2.9366066585106734, z-target=10.0)
+Episode =  446, score= 56.389 (best= 72.260, step=38, avg_reward=  1.484, worst=  0.430,  z-Pos=11.366264319285097, z-Vel=3.087712380943197, z-target=10.0)
+Episode =  447, score= 53.933 (best= 72.260, step=45, avg_reward=  1.199, worst=  0.430,  z-Pos=11.363023582534131, z-Vel=3.449233373220451, z-target=10.0)
+Episode =  448, score= 51.889 (best= 72.260, step=45, avg_reward=  1.153, worst=  0.430,  z-Pos=11.35724729902333, z-Vel=3.509850094792592, z-target=10.0)
+Episode =  449, score= 51.662 (best= 72.260, step=43, avg_reward=  1.201, worst=  0.430,  z-Pos=11.352131440592107, z-Vel=3.477185233134706, z-target=10.0)
+Episode =  450, score= 53.010 (best= 72.260, step=39, avg_reward=  1.359, worst=  0.430,  z-Pos=11.321766147341448, z-Vel=3.265591034169699, z-target=10.0)
+Episode =  451, score= 39.361 (best= 72.260, step=29, avg_reward=  1.357, worst=  0.430,  z-Pos=11.339121790785125, z-Vel=2.6298012301606555, z-target=10.0)
+Episode =  452, score= 48.785 (best= 72.260, step=44, avg_reward=  1.109, worst=  0.430,  z-Pos=11.373123878930729, z-Vel=3.6542924423464433, z-target=10.0)
+Episode =  453, score= 67.796 (best= 72.260, step=44, avg_reward=  1.541, worst=  0.430,  z-Pos=11.353504495889215, z-Vel=3.180952266555814, z-target=10.0)
+Episode =  454, score= 58.013 (best= 72.260, step=44, avg_reward=  1.318, worst=  0.430,  z-Pos=11.373310619717236, z-Vel=3.298101426180968, z-target=10.0)
+Episode =  455, score= 53.029 (best= 72.260, step=45, avg_reward=  1.178, worst=  0.430,  z-Pos=11.349927987326776, z-Vel=3.4672619304292964, z-target=10.0)
+Episode =  456, score= 53.297 (best= 72.260, step=45, avg_reward=  1.184, worst=  0.430,  z-Pos=11.33015509211243, z-Vel=3.4051542679107194, z-target=10.0)
+Episode =  457, score= 60.839 (best= 72.260, step=40, avg_reward=  1.521, worst=  0.430,  z-Pos=11.358858246917508, z-Vel=3.2054207450823333, z-target=10.0)
+Episode =  458, score= 66.089 (best= 72.260, step=43, avg_reward=  1.537, worst=  0.430,  z-Pos=11.3403710091642, z-Vel=3.1513030621395552, z-target=10.0)
+Episode =  459, score= 53.106 (best= 72.260, step=36, avg_reward=  1.475, worst=  0.430,  z-Pos=11.32032732248451, z-Vel=2.967375336211233, z-target=10.0)
+Episode =  460, score= 50.987 (best= 72.260, step=43, avg_reward=  1.186, worst=  0.430,  z-Pos=11.319099477460934, z-Vel=3.454637565016043, z-target=10.0)
+Episode =  461, score= 53.990 (best= 72.260, step=46, avg_reward=  1.174, worst=  0.430,  z-Pos=11.32856254703088, z-Vel=3.408527007179815, z-target=10.0)
+Episode =  462, score= 55.238 (best= 72.260, step=38, avg_reward=  1.454, worst=  0.430,  z-Pos=11.333892190593378, z-Vel=2.8314538715636997, z-target=10.0)
+Episode =  463, score= 51.509 (best= 72.260, step=44, avg_reward=  1.171, worst=  0.430,  z-Pos=11.333911139282959, z-Vel=3.463631337417817, z-target=10.0)
+Episode =  464, score= 50.270 (best= 72.260, step=36, avg_reward=  1.396, worst=  0.430,  z-Pos=11.337675262962314, z-Vel=2.6087334811077785, z-target=10.0)
+Episode =  465, score= 57.167 (best= 72.260, step=39, avg_reward=  1.466, worst=  0.430,  z-Pos=11.367260695191543, z-Vel=3.245252813679275, z-target=10.0)
+Episode =  466, score= 56.769 (best= 72.260, step=38, avg_reward=  1.494, worst=  0.430,  z-Pos=11.34456286807665, z-Vel=3.0781361734426573, z-target=10.0)
+Episode =  467, score= 48.265 (best= 72.260, step=50, avg_reward=  0.965, worst=  0.430,  z-Pos=11.321417955287135, z-Vel=3.8025944404588694, z-target=10.0)
+Episode =  468, score= 51.871 (best= 72.260, step=42, avg_reward=  1.235, worst=  0.430,  z-Pos=11.363703256151954, z-Vel=3.420655813150423, z-target=10.0)
+Episode =  469, score= 45.769 (best= 72.260, step=33, avg_reward=  1.387, worst=  0.430,  z-Pos=11.344608120755165, z-Vel=2.6653495394762627, z-target=10.0)
+Episode =  470, score= 51.292 (best= 72.260, step=44, avg_reward=  1.166, worst=  0.430,  z-Pos=11.35250802251441, z-Vel=3.499931630854221, z-target=10.0)
+Episode =  471, score= 51.347 (best= 72.260, step=35, avg_reward=  1.467, worst=  0.430,  z-Pos=11.317130197215045, z-Vel=2.947134294818109, z-target=10.0)
+Episode =  472, score= 53.995 (best= 72.260, step=42, avg_reward=  1.286, worst=  0.430,  z-Pos=11.346354575062655, z-Vel=3.330724112354294, z-target=10.0)
+Episode =  473, score= 56.298 (best= 72.260, step=38, avg_reward=  1.482, worst=  0.430,  z-Pos=11.341538415987733, z-Vel=3.000469865033364, z-target=10.0)
+Episode =  474, score= 53.841 (best= 72.260, step=37, avg_reward=  1.455, worst=  0.430,  z-Pos=11.354704483034814, z-Vel=2.930052899417568, z-target=10.0)
+Episode =  475, score= 64.456 (best= 72.260, step=42, avg_reward=  1.535, worst=  0.430,  z-Pos=11.329560612662986, z-Vel=3.1366105725529834, z-target=10.0)
+Episode =  476, score= 47.025 (best= 72.260, step=34, avg_reward=  1.383, worst=  0.430,  z-Pos=11.361970577679616, z-Vel=2.6704122257032266, z-target=10.0)
+Episode =  477, score= 51.917 (best= 72.260, step=36, avg_reward=  1.442, worst=  0.430,  z-Pos=11.326452232161442, z-Vel=2.8058816455202025, z-target=10.0)
+Episode =  478, score= 51.719 (best= 72.260, step=45, avg_reward=  1.149, worst=  0.430,  z-Pos=11.371926237832264, z-Vel=3.5344641044324754, z-target=10.0)
+Episode =  479, score= 61.981 (best= 72.260, step=45, avg_reward=  1.377, worst=  0.430,  z-Pos=11.344334967958716, z-Vel=3.2198680406455873, z-target=10.0)
+Episode =  480, score= 47.068 (best= 72.260, step=34, avg_reward=  1.384, worst=  0.430,  z-Pos=11.326892974983556, z-Vel=2.5656963164821023, z-target=10.0)
+Episode =  481, score= 49.569 (best= 72.260, step=43, avg_reward=  1.153, worst=  0.430,  z-Pos=11.349343781470207, z-Vel=3.5594786587625995, z-target=10.0)
+Episode =  482, score= 49.233 (best= 72.260, step=35, avg_reward=  1.407, worst=  0.430,  z-Pos=11.360417194125608, z-Vel=2.7562611953927343, z-target=10.0)
+Episode =  483, score= 60.099 (best= 72.260, step=45, avg_reward=  1.336, worst=  0.430,  z-Pos=11.341708515825687, z-Vel=3.2459981207853796, z-target=10.0)
+Episode =  484, score= 57.269 (best= 72.260, step=44, avg_reward=  1.302, worst=  0.430,  z-Pos=11.357074638820965, z-Vel=3.3096009356973264, z-target=10.0)
+Episode =  485, score= 53.826 (best= 72.260, step=37, avg_reward=  1.455, worst=  0.430,  z-Pos=11.369402456758877, z-Vel=2.972362286484098, z-target=10.0)
+Episode =  486, score= 57.512 (best= 72.260, step=42, avg_reward=  1.369, worst=  0.430,  z-Pos=11.36952710783206, z-Vel=3.273850176023357, z-target=10.0)
+Episode =  487, score= 64.557 (best= 72.260, step=42, avg_reward=  1.537, worst=  0.430,  z-Pos=11.34511079529035, z-Vel=3.193237124735691, z-target=10.0)
+Episode =  488, score= 43.864 (best= 72.260, step=33, avg_reward=  1.329, worst=  0.430,  z-Pos=11.350214998718458, z-Vel=2.391375921056447, z-target=10.0)
+Episode =  489, score= 57.332 (best= 72.260, step=39, avg_reward=  1.470, worst=  0.430,  z-Pos=11.361508956333278, z-Vel=2.968048877685618, z-target=10.0)
+Episode =  490, score= 52.495 (best= 72.260, step=36, avg_reward=  1.458, worst=  0.430,  z-Pos=11.368664247358794, z-Vel=3.023796361262278, z-target=10.0)
+Episode =  491, score= 62.311 (best= 72.260, step=41, avg_reward=  1.520, worst=  0.430,  z-Pos=11.378360766829015, z-Vel=3.2217332529687592, z-target=10.0)
+Episode =  492, score= 51.672 (best= 72.260, step=43, avg_reward=  1.202, worst=  0.430,  z-Pos=11.35239372690749, z-Vel=3.46010691432992, z-target=10.0)
+Episode =  493, score= 58.052 (best= 72.260, step=39, avg_reward=  1.489, worst=  0.430,  z-Pos=11.328794973139097, z-Vel=2.970399822263497, z-target=10.0)
+Episode =  494, score= 52.519 (best= 72.260, step=37, avg_reward=  1.419, worst=  0.430,  z-Pos=11.361880891781196, z-Vel=2.7684936018203037, z-target=10.0)
+Episode =  495, score= 58.837 (best= 72.260, step=39, avg_reward=  1.509, worst=  0.430,  z-Pos=11.357972552895948, z-Vel=3.1669786502844373, z-target=10.0)
+Episode =  496, score= 56.479 (best= 72.260, step=43, avg_reward=  1.313, worst=  0.430,  z-Pos=11.360936467531806, z-Vel=3.307338793267986, z-target=10.0)
+Episode =  497, score= 49.833 (best= 72.260, step=35, avg_reward=  1.424, worst=  0.430,  z-Pos=11.31805323774813, z-Vel=2.7130452559272644, z-target=10.0)
+Episode =  498, score= 56.368 (best= 72.260, step=47, avg_reward=  1.199, worst=  0.430,  z-Pos=11.361479033128871, z-Vel=3.4128154446773094, z-target=10.0)
+Episode =  499, score= 46.162 (best= 72.260, step=32, avg_reward=  1.443, worst=  0.430,  z-Pos=11.340686542277917, z-Vel=3.0075251161816188, z-target=10.0)
+Episode =  500, score= 56.359 (best= 72.260, step=38, avg_reward=  1.483, worst=  0.430,  z-Pos=11.3550147567769, z-Vel=3.049548030251432, z-target=10.0)
+Episode =  501, score= 43.625 (best= 72.260, step=32, avg_reward=  1.363, worst=  0.430,  z-Pos=11.34503249053215, z-Vel=2.5736431150396206, z-target=10.0)
+Episode =  502, score= 45.434 (best= 72.260, step=33, avg_reward=  1.377, worst=  0.430,  z-Pos=11.335594544290446, z-Vel=2.5827546165794883, z-target=10.0)
+Episode =  503, score= 47.239 (best= 72.260, step=53, avg_reward=  0.891, worst=  0.392,  z-Pos=11.344513797609224, z-Vel=3.933815296174175, z-target=10.0)
+Episode =  504, score= 54.890 (best= 72.260, step=45, avg_reward=  1.220, worst=  0.392,  z-Pos=11.36998872801866, z-Vel=3.3979868631986205, z-target=10.0)
+Episode =  505, score= 57.960 (best= 72.260, step=39, avg_reward=  1.486, worst=  0.392,  z-Pos=11.374963841511079, z-Vel=3.092176403367778, z-target=10.0)
+Episode =  506, score= 62.948 (best= 72.260, step=41, avg_reward=  1.535, worst=  0.392,  z-Pos=11.33229813264591, z-Vel=3.1776307264991965, z-target=10.0)
+Episode =  507, score= 46.994 (best= 72.260, step=33, avg_reward=  1.424, worst=  0.392,  z-Pos=11.316709439373597, z-Vel=2.7752108749111004, z-target=10.0)
+Episode =  508, score= 57.324 (best= 72.260, step=45, avg_reward=  1.274, worst=  0.392,  z-Pos=11.330624586882102, z-Vel=3.2968946275786806, z-target=10.0)
+Episode =  509, score= 56.552 (best= 72.260, step=38, avg_reward=  1.488, worst=  0.392,  z-Pos=11.354932483527122, z-Vel=3.2296561860029116, z-target=10.0)
+Episode =  510, score= 41.078 (best= 72.260, step=31, avg_reward=  1.325, worst=  0.392,  z-Pos=11.359103843987905, z-Vel=2.4523261421524656, z-target=10.0)
+Episode =  511, score= 50.294 (best= 72.260, step=35, avg_reward=  1.437, worst=  0.392,  z-Pos=11.323003087802507, z-Vel=2.798532754513345, z-target=10.0)
+Episode =  512, score= 44.415 (best= 72.260, step=32, avg_reward=  1.388, worst=  0.392,  z-Pos=11.342677262410088, z-Vel=2.698641316824435, z-target=10.0)
+Episode =  513, score= 56.993 (best= 72.260, step=46, avg_reward=  1.239, worst=  0.392,  z-Pos=11.335741559524285, z-Vel=3.3115072311553475, z-target=10.0)
+Episode =  514, score= 54.056 (best= 72.260, step=47, avg_reward=  1.150, worst=  0.392,  z-Pos=11.381361717037288, z-Vel=3.488768794145637, z-target=10.0)
+Episode =  515, score= 63.461 (best= 72.260, step=42, avg_reward=  1.511, worst=  0.392,  z-Pos=11.353269833750153, z-Vel=3.2033500040895744, z-target=10.0)
+Episode =  516, score= 60.449 (best= 72.260, step=40, avg_reward=  1.511, worst=  0.392,  z-Pos=11.338200378487967, z-Vel=3.090802501366162, z-target=10.0)
+Episode =  517, score= 63.867 (best= 72.260, step=42, avg_reward=  1.521, worst=  0.392,  z-Pos=11.358233562452806, z-Vel=3.1397250361355233, z-target=10.0)
+Episode =  518, score= 52.656 (best= 72.260, step=36, avg_reward=  1.463, worst=  0.392,  z-Pos=11.343179619601454, z-Vel=2.9689128305183554, z-target=10.0)
+Episode =  519, score= 60.009 (best= 72.260, step=49, avg_reward=  1.225, worst=  0.392,  z-Pos=11.350019163701159, z-Vel=3.322028049473734, z-target=10.0)
+Episode =  520, score= 54.956 (best= 72.260, step=46, avg_reward=  1.195, worst=  0.392,  z-Pos=11.336665913607364, z-Vel=3.3766781737821803, z-target=10.0)
+Episode =  521, score= 55.660 (best= 72.260, step=49, avg_reward=  1.136, worst=  0.392,  z-Pos=11.360723053530062, z-Vel=3.455837365157794, z-target=10.0)
+Episode =  522, score= 54.304 (best= 72.260, step=44, avg_reward=  1.234, worst=  0.392,  z-Pos=11.359714963576094, z-Vel=3.4004510392541527, z-target=10.0)
+Episode =  523, score= 59.157 (best= 72.260, step=40, avg_reward=  1.479, worst=  0.392,  z-Pos=11.368773002427112, z-Vel=3.0062399369240795, z-target=10.0)
+Episode =  524, score= 50.218 (best= 72.260, step=35, avg_reward=  1.435, worst=  0.392,  z-Pos=11.355434104475249, z-Vel=2.8894414066903154, z-target=10.0)
+Episode =  525, score= 51.674 (best= 72.260, step=49, avg_reward=  1.055, worst=  0.392,  z-Pos=11.363060374805524, z-Vel=3.672365472944418, z-target=10.0)
+Episode =  526, score= 61.675 (best= 72.260, step=41, avg_reward=  1.504, worst=  0.392,  z-Pos=11.362205094956003, z-Vel=3.091752414169182, z-target=10.0)
+Episode =  527, score= 59.157 (best= 72.260, step=40, avg_reward=  1.479, worst=  0.392,  z-Pos=11.332524292256187, z-Vel=2.9045558398254916, z-target=10.0)
+Episode =  528, score= 52.164 (best= 72.260, step=46, avg_reward=  1.134, worst=  0.392,  z-Pos=11.382922706920931, z-Vel=3.580082655073353, z-target=10.0)
+Episode =  529, score= 53.418 (best= 72.260, step=37, avg_reward=  1.444, worst=  0.392,  z-Pos=11.361872037105336, z-Vel=2.891590901833374, z-target=10.0)
+Episode =  530, score= 60.022 (best= 72.260, step=40, avg_reward=  1.501, worst=  0.392,  z-Pos=11.370946788146181, z-Vel=3.126614964414246, z-target=10.0)
+Episode =  531, score= 64.583 (best= 72.260, step=42, avg_reward=  1.538, worst=  0.392,  z-Pos=11.337760491100475, z-Vel=3.1761776345080164, z-target=10.0)
+Episode =  532, score= 62.641 (best= 72.260, step=41, avg_reward=  1.528, worst=  0.392,  z-Pos=11.33018831480062, z-Vel=3.1295614815920114, z-target=10.0)
+Episode =  533, score= 49.914 (best= 72.260, step=49, avg_reward=  1.019, worst=  0.392,  z-Pos=11.380399495883923, z-Vel=3.7828495432888096, z-target=10.0)
+Episode =  534, score= 67.953 (best= 72.260, step=44, avg_reward=  1.544, worst=  0.392,  z-Pos=11.324298908641662, z-Vel=3.122630325257587, z-target=10.0)
+Episode =  535, score= 54.932 (best= 72.260, step=37, avg_reward=  1.485, worst=  0.392,  z-Pos=11.361180712931908, z-Vel=3.1123720608303667, z-target=10.0)
+Episode =  536, score= 50.442 (best= 72.260, step=52, avg_reward=  0.970, worst=  0.392,  z-Pos=11.36286222105972, z-Vel=3.785532406920922, z-target=10.0)
+Episode =  537, score= 57.864 (best= 72.260, step=39, avg_reward=  1.484, worst=  0.392,  z-Pos=11.34189315910127, z-Vel=2.9827221909406685, z-target=10.0)
+Episode =  538, score= 60.297 (best= 72.260, step=40, avg_reward=  1.507, worst=  0.392,  z-Pos=11.353394252478182, z-Vel=3.113690930495306, z-target=10.0)
+Episode =  539, score= 47.845 (best= 72.260, step=34, avg_reward=  1.407, worst=  0.392,  z-Pos=11.368382556302656, z-Vel=2.8170449220325295, z-target=10.0)
+Episode =  540, score= 55.780 (best= 72.260, step=39, avg_reward=  1.430, worst=  0.392,  z-Pos=11.322509129907562, z-Vel=3.2072180289835743, z-target=10.0)
+Episode =  541, score= 56.955 (best= 72.260, step=38, avg_reward=  1.499, worst=  0.392,  z-Pos=11.330263114520477, z-Vel=3.062562660099499, z-target=10.0)
+Episode =  542, score= 50.458 (best= 72.260, step=43, avg_reward=  1.173, worst=  0.392,  z-Pos=11.368611399574336, z-Vel=3.5267821357416347, z-target=10.0)
+Episode =  543, score= 53.653 (best= 72.260, step=43, avg_reward=  1.248, worst=  0.392,  z-Pos=11.35405973516211, z-Vel=3.365361161493739, z-target=10.0)
+Episode =  544, score= 47.941 (best= 72.260, step=50, avg_reward=  0.959, worst=  0.392,  z-Pos=11.330757110741017, z-Vel=3.8395172923508896, z-target=10.0)
+Episode =  545, score= 57.391 (best= 72.260, step=39, avg_reward=  1.472, worst=  0.392,  z-Pos=11.346910666289634, z-Vel=3.217213523311667, z-target=10.0)
+Episode =  546, score= 48.262 (best= 72.260, step=34, avg_reward=  1.419, worst=  0.392,  z-Pos=11.31856328351461, z-Vel=2.7221110444204712, z-target=10.0)
+Episode =  547, score= 36.035 (best= 72.260, step=28, avg_reward=  1.287, worst=  0.392,  z-Pos=11.321822601720468, z-Vel=2.2035296786719925, z-target=10.0)
+Episode =  548, score= 54.796 (best= 72.260, step=48, avg_reward=  1.142, worst=  0.392,  z-Pos=11.366576864813297, z-Vel=3.5055288833454554, z-target=10.0)
+Episode =  549, score= 54.471 (best= 72.260, step=37, avg_reward=  1.472, worst=  0.392,  z-Pos=11.320498633256776, z-Vel=2.917940221272274, z-target=10.0)
+Episode =  550, score= 54.854 (best= 72.260, step=37, avg_reward=  1.483, worst=  0.392,  z-Pos=11.338863960986956, z-Vel=3.0314395842387682, z-target=10.0)
+Episode =  551, score= 58.858 (best= 72.260, step=39, avg_reward=  1.509, worst=  0.392,  z-Pos=11.342736892190242, z-Vel=3.124636160603339, z-target=10.0)
+Episode =  552, score= 56.316 (best= 72.260, step=38, avg_reward=  1.482, worst=  0.392,  z-Pos=11.320096876880628, z-Vel=2.939209916395262, z-target=10.0)
+Episode =  553, score= 53.671 (best= 72.260, step=37, avg_reward=  1.451, worst=  0.392,  z-Pos=11.343282225338601, z-Vel=2.871466475774725, z-target=10.0)
+Episode =  554, score= 47.830 (best= 72.260, step=50, avg_reward=  0.957, worst=  0.392,  z-Pos=11.325737793330314, z-Vel=3.850501048313567, z-target=10.0)
+Episode =  555, score= 60.472 (best= 72.260, step=40, avg_reward=  1.512, worst=  0.392,  z-Pos=11.328994189202682, z-Vel=3.067331254768868, z-target=10.0)
+Episode =  556, score= 50.437 (best= 72.260, step=46, avg_reward=  1.096, worst=  0.392,  z-Pos=11.32744881927548, z-Vel=3.5974085856747298, z-target=10.0)
+Episode =  557, score= 54.080 (best= 72.260, step=47, avg_reward=  1.151, worst=  0.392,  z-Pos=11.37916315653896, z-Vel=3.486502959292662, z-target=10.0)
+Episode =  558, score= 42.071 (best= 72.260, step=31, avg_reward=  1.357, worst=  0.392,  z-Pos=11.342825079569636, z-Vel=2.566143634463068, z-target=10.0)
+Episode =  559, score= 61.945 (best= 72.260, step=41, avg_reward=  1.511, worst=  0.392,  z-Pos=11.335775442060125, z-Vel=3.187477506459501, z-target=10.0)
+Episode =  560, score= 58.585 (best= 72.260, step=46, avg_reward=  1.274, worst=  0.392,  z-Pos=11.367681179787647, z-Vel=3.3057861501870627, z-target=10.0)
+Episode =  561, score= 62.407 (best= 72.260, step=41, avg_reward=  1.522, worst=  0.392,  z-Pos=11.352605784870681, z-Vel=3.1614326157235095, z-target=10.0)
+Episode =  562, score= 60.170 (best= 72.260, step=44, avg_reward=  1.367, worst=  0.392,  z-Pos=11.350972519824605, z-Vel=3.234319794434694, z-target=10.0)
+Episode =  563, score= 60.691 (best= 72.260, step=40, avg_reward=  1.517, worst=  0.392,  z-Pos=11.34724175357256, z-Vel=3.1504983641582633, z-target=10.0)
+Episode =  564, score= 52.030 (best= 72.260, step=42, avg_reward=  1.239, worst=  0.392,  z-Pos=11.349412544067361, z-Vel=3.413211974237642, z-target=10.0)
+Episode =  565, score= 54.595 (best= 72.260, step=37, avg_reward=  1.476, worst=  0.392,  z-Pos=11.32919841279554, z-Vel=2.9627957663579694, z-target=10.0)
+Episode =  566, score= 39.835 (best= 72.260, step=30, avg_reward=  1.328, worst=  0.392,  z-Pos=11.335808666149553, z-Vel=2.4161531553412, z-target=10.0)
+Episode =  567, score= 49.829 (best= 72.260, step=46, avg_reward=  1.083, worst=  0.392,  z-Pos=11.384081036836259, z-Vel=3.6756459769749643, z-target=10.0)
+Episode =  568, score= 54.049 (best= 72.260, step=45, avg_reward=  1.201, worst=  0.392,  z-Pos=11.35274418063491, z-Vel=3.433107026834143, z-target=10.0)
+Episode =  569, score= 52.164 (best= 72.260, step=41, avg_reward=  1.272, worst=  0.392,  z-Pos=11.362103328333005, z-Vel=3.392287224394394, z-target=10.0)
+Episode =  570, score= 55.479 (best= 72.260, step=45, avg_reward=  1.233, worst=  0.392,  z-Pos=11.317299016134381, z-Vel=3.3378801281431, z-target=10.0)
+Episode =  571, score= 54.683 (best= 72.260, step=49, avg_reward=  1.116, worst=  0.392,  z-Pos=11.346381928032095, z-Vel=3.480388883819656, z-target=10.0)
+Episode =  572, score= 52.266 (best= 72.260, step=44, avg_reward=  1.188, worst=  0.392,  z-Pos=11.357585638298094, z-Vel=3.487653936034729, z-target=10.0)
+Episode =  573, score= 59.108 (best= 72.260, step=39, avg_reward=  1.516, worst=  0.392,  z-Pos=11.341970944920579, z-Vel=3.159098123017853, z-target=10.0)
+Episode =  574, score= 53.945 (best= 72.260, step=41, avg_reward=  1.316, worst=  0.392,  z-Pos=11.37272003680302, z-Vel=3.3481008398478216, z-target=10.0)
+Episode =  575, score= 32.042 (best= 72.260, step=26, avg_reward=  1.232, worst=  0.392,  z-Pos=11.328720034559074, z-Vel=1.9812239386567687, z-target=10.0)
+Episode =  576, score= 55.696 (best= 72.260, step=46, avg_reward=  1.211, worst=  0.392,  z-Pos=11.36103589306136, z-Vel=3.3858415550374614, z-target=10.0)
+Episode =  577, score= 55.161 (best= 72.260, step=42, avg_reward=  1.313, worst=  0.392,  z-Pos=11.325769302348691, z-Vel=3.268651088182385, z-target=10.0)
+Episode =  578, score= 54.367 (best= 72.260, step=45, avg_reward=  1.208, worst=  0.392,  z-Pos=11.326547867689312, z-Vel=3.3666320951466377, z-target=10.0)
+Episode =  579, score= 55.662 (best= 72.260, step=42, avg_reward=  1.325, worst=  0.392,  z-Pos=11.368495755455152, z-Vel=3.3178438207627288, z-target=10.0)
+Episode =  580, score= 52.661 (best= 72.260, step=44, avg_reward=  1.197, worst=  0.392,  z-Pos=11.322387704682466, z-Vel=3.4271496312122878, z-target=10.0)
+Episode =  581, score= 51.307 (best= 72.260, step=47, avg_reward=  1.092, worst=  0.392,  z-Pos=11.318590771406814, z-Vel=3.5454495006757956, z-target=10.0)
+Episode =  582, score= 57.907 (best= 72.260, step=39, avg_reward=  1.485, worst=  0.392,  z-Pos=11.35694492660668, z-Vel=3.0323527851172574, z-target=10.0)
+Episode =  583, score= 52.438 (best= 72.260, step=36, avg_reward=  1.457, worst=  0.392,  z-Pos=11.340146350528764, z-Vel=2.9259298807133964, z-target=10.0)
+Episode =  584, score= 49.483 (best= 72.260, step=48, avg_reward=  1.031, worst=  0.392,  z-Pos=11.36790359022091, z-Vel=3.7734211008114595, z-target=10.0)
+Episode =  585, score= 43.810 (best= 72.260, step=32, avg_reward=  1.369, worst=  0.392,  z-Pos=11.330375284349486, z-Vel=2.554963440901202, z-target=10.0)
+Episode =  586, score= 62.449 (best= 72.260, step=41, avg_reward=  1.523, worst=  0.392,  z-Pos=11.328361834652354, z-Vel=3.0984690789317844, z-target=10.0)
+Episode =  587, score= 58.724 (best= 72.260, step=39, avg_reward=  1.506, worst=  0.392,  z-Pos=11.378903888683402, z-Vel=3.21292726914457, z-target=10.0)
+Episode =  588, score= 55.219 (best= 72.260, step=44, avg_reward=  1.255, worst=  0.392,  z-Pos=11.366279605399214, z-Vel=3.372886228816361, z-target=10.0)
+Episode =  589, score= 55.446 (best= 72.260, step=43, avg_reward=  1.289, worst=  0.392,  z-Pos=11.368261865839798, z-Vel=3.3446524279082177, z-target=10.0)
+Episode =  590, score= 61.074 (best= 72.260, step=41, avg_reward=  1.490, worst=  0.392,  z-Pos=11.350684701279329, z-Vel=2.9839293091681736, z-target=10.0)
+Episode =  591, score= 65.215 (best= 72.260, step=43, avg_reward=  1.517, worst=  0.392,  z-Pos=11.376877862321903, z-Vel=3.141950377711658, z-target=10.0)
+Episode =  592, score= 56.069 (best= 72.260, step=45, avg_reward=  1.246, worst=  0.392,  z-Pos=11.353931630881442, z-Vel=3.351765874304813, z-target=10.0)
+Episode =  593, score= 48.456 (best= 72.260, step=34, avg_reward=  1.425, worst=  0.392,  z-Pos=11.327381887985315, z-Vel=2.7815360337256885, z-target=10.0)
+Episode =  594, score= 57.454 (best= 72.260, step=42, avg_reward=  1.368, worst=  0.392,  z-Pos=11.377874195500434, z-Vel=3.295159881368735, z-target=10.0)
+Episode =  595, score= 55.815 (best= 72.260, step=37, avg_reward=  1.509, worst=  0.392,  z-Pos=11.336100779631339, z-Vel=3.1738823196473716, z-target=10.0)
+Episode =  596, score= 65.757 (best= 72.260, step=43, avg_reward=  1.529, worst=  0.392,  z-Pos=11.363114042393615, z-Vel=3.1713518755419217, z-target=10.0)
+Episode =  597, score= 64.668 (best= 72.260, step=42, avg_reward=  1.540, worst=  0.392,  z-Pos=11.333082860003682, z-Vel=3.1743412799208515, z-target=10.0)
+Episode =  598, score= 50.790 (best= 72.260, step=52, avg_reward=  0.977, worst=  0.392,  z-Pos=11.336751343124606, z-Vel=3.7459032191407498, z-target=10.0)
+Episode =  599, score= 53.673 (best= 72.260, step=37, avg_reward=  1.451, worst=  0.392,  z-Pos=11.332942689855154, z-Vel=2.8407076441037464, z-target=10.0)
+Episode =  600, score= 55.084 (best= 72.260, step=38, avg_reward=  1.450, worst=  0.392,  z-Pos=11.37175133171994, z-Vel=2.9213295167238815, z-target=10.0)
+Episode =  601, score= 54.886 (best= 72.260, step=37, avg_reward=  1.483, worst=  0.392,  z-Pos=11.324102647988587, z-Vel=2.9908315070077442, z-target=10.0)
+Episode =  602, score= 55.569 (best= 72.260, step=37, avg_reward=  1.502, worst=  0.392,  z-Pos=11.344323594742765, z-Vel=3.160097533635612, z-target=10.0)
+Episode =  603, score= 55.575 (best= 72.260, step=44, avg_reward=  1.263, worst=  0.392,  z-Pos=11.33316470790529, z-Vel=3.304844118653908, z-target=10.0)
+Episode =  604, score= 51.238 (best= 72.260, step=46, avg_reward=  1.114, worst=  0.392,  z-Pos=11.365627877327428, z-Vel=3.5935213675804376, z-target=10.0)
+Episode =  605, score= 57.994 (best= 72.260, step=39, avg_reward=  1.487, worst=  0.392,  z-Pos=11.354670907483934, z-Vel=3.037579096244139, z-target=10.0)
+Episode =  606, score= 55.704 (best= 72.260, step=46, avg_reward=  1.211, worst=  0.392,  z-Pos=11.360825153761366, z-Vel=3.3757704323251945, z-target=10.0)
+Episode =  607, score= 56.321 (best= 72.260, step=38, avg_reward=  1.482, worst=  0.392,  z-Pos=11.365307519186915, z-Vel=3.0748605548806576, z-target=10.0)
+Episode =  608, score= 51.897 (best= 72.260, step=43, avg_reward=  1.207, worst=  0.392,  z-Pos=11.332837996123725, z-Vel=3.4101312212686636, z-target=10.0)
+Episode =  609, score= 69.701 (best= 72.260, step=45, avg_reward=  1.549, worst=  0.392,  z-Pos=11.348007792206591, z-Vel=3.1845478887522325, z-target=10.0)
+Episode =  610, score= 54.096 (best= 72.260, step=44, avg_reward=  1.229, worst=  0.392,  z-Pos=11.37819434025984, z-Vel=3.4199344156633487, z-target=10.0)
+Episode =  611, score= 64.274 (best= 72.260, step=42, avg_reward=  1.530, worst=  0.392,  z-Pos=11.364534982566278, z-Vel=3.209995019948952, z-target=10.0)
+Episode =  612, score= 60.749 (best= 72.260, step=40, avg_reward=  1.519, worst=  0.392,  z-Pos=11.316732704377692, z-Vel=3.070268999285414, z-target=10.0)
+Episode =  613, score= 56.993 (best= 72.260, step=45, avg_reward=  1.267, worst=  0.392,  z-Pos=11.358712254358426, z-Vel=3.3244935171404357, z-target=10.0)
+Episode =  614, score= 58.261 (best= 72.260, step=41, avg_reward=  1.421, worst=  0.392,  z-Pos=11.322389401486712, z-Vel=3.201753467080729, z-target=10.0)
+Episode =  615, score= 52.908 (best= 72.260, step=45, avg_reward=  1.176, worst=  0.392,  z-Pos=11.360285334564274, z-Vel=3.4852402785977548, z-target=10.0)
+Episode =  616, score= 55.574 (best= 72.260, step=42, avg_reward=  1.323, worst=  0.392,  z-Pos=11.378156547344071, z-Vel=3.33927458345475, z-target=10.0)
+Episode =  617, score= 56.778 (best= 72.260, step=38, avg_reward=  1.494, worst=  0.392,  z-Pos=11.321941536793062, z-Vel=3.0112625960293666, z-target=10.0)
+Episode =  618, score= 48.488 (best= 72.260, step=43, avg_reward=  1.128, worst=  0.392,  z-Pos=11.348863171250702, z-Vel=3.6002256134545867, z-target=10.0)
+Episode =  619, score= 54.059 (best= 72.260, step=41, avg_reward=  1.319, worst=  0.392,  z-Pos=11.363740914013606, z-Vel=3.342027711835738, z-target=10.0)
+Episode =  620, score= 51.062 (best= 72.260, step=48, avg_reward=  1.064, worst=  0.392,  z-Pos=11.373922906816128, z-Vel=3.671327598949526, z-target=10.0)
+Episode =  621, score= 59.313 (best= 72.260, step=39, avg_reward=  1.521, worst=  0.392,  z-Pos=11.328389155196179, z-Vel=3.148870315702456, z-target=10.0)
+Episode =  622, score= 52.529 (best= 72.260, step=36, avg_reward=  1.459, worst=  0.392,  z-Pos=11.375600529989697, z-Vel=3.0507978207971433, z-target=10.0)
+Episode =  623, score= 59.051 (best= 72.260, step=39, avg_reward=  1.514, worst=  0.392,  z-Pos=11.350512806475825, z-Vel=3.1761915699805865, z-target=10.0)
+Episode =  624, score= 58.549 (best= 72.260, step=39, avg_reward=  1.501, worst=  0.392,  z-Pos=11.34976884678223, z-Vel=3.1010296986986625, z-target=10.0)
+Episode =  625, score= 59.021 (best= 72.260, step=39, avg_reward=  1.513, worst=  0.392,  z-Pos=11.346932395686908, z-Vel=3.160975172072274, z-target=10.0)
+Episode =  626, score= 48.820 (best= 72.260, step=51, avg_reward=  0.957, worst=  0.392,  z-Pos=11.323091677358754, z-Vel=3.794410603556649, z-target=10.0)
+Episode =  627, score= 60.402 (best= 72.260, step=40, avg_reward=  1.510, worst=  0.392,  z-Pos=11.357238592494413, z-Vel=3.1392073003084837, z-target=10.0)
+Episode =  628, score= 49.523 (best= 72.260, step=45, avg_reward=  1.101, worst=  0.392,  z-Pos=11.360153864089211, z-Vel=3.6349882116978005, z-target=10.0)
+Episode =  629, score= 48.739 (best= 72.260, step=34, avg_reward=  1.433, worst=  0.392,  z-Pos=11.371526598621722, z-Vel=2.971766278956184, z-target=10.0)
+Episode =  630, score= 61.942 (best= 72.260, step=41, avg_reward=  1.511, worst=  0.392,  z-Pos=11.362853369373157, z-Vel=3.1284119613611083, z-target=10.0)
+Episode =  631, score= 66.032 (best= 72.260, step=43, avg_reward=  1.536, worst=  0.392,  z-Pos=11.355492732961581, z-Vel=3.1851327636799485, z-target=10.0)
+Episode =  632, score= 48.323 (best= 72.260, step=34, avg_reward=  1.421, worst=  0.392,  z-Pos=11.325358644570048, z-Vel=2.7537617246892885, z-target=10.0)
+Episode =  633, score= 54.158 (best= 72.260, step=47, avg_reward=  1.152, worst=  0.392,  z-Pos=11.364965342457216, z-Vel=3.5023247165699063, z-target=10.0)
+Episode =  634, score= 56.918 (best= 72.260, step=43, avg_reward=  1.324, worst=  0.392,  z-Pos=11.32286727980248, z-Vel=3.260044748284683, z-target=10.0)
+Episode =  635, score= 58.802 (best= 72.260, step=39, avg_reward=  1.508, worst=  0.392,  z-Pos=11.369409256248744, z-Vel=3.1958841694828597, z-target=10.0)
+Episode =  636, score= 53.655 (best= 72.260, step=37, avg_reward=  1.450, worst=  0.392,  z-Pos=11.369466535046866, z-Vel=2.9480070627790522, z-target=10.0)
+Episode =  637, score= 66.224 (best= 72.260, step=43, avg_reward=  1.540, worst=  0.392,  z-Pos=11.319805044211744, z-Vel=3.1125153332368187, z-target=10.0)
+Episode =  638, score= 52.259 (best= 72.260, step=45, avg_reward=  1.161, worst=  0.392,  z-Pos=11.322894989254173, z-Vel=3.4636011250151153, z-target=10.0)
+Episode =  639, score= 49.201 (best= 72.260, step=35, avg_reward=  1.406, worst=  0.392,  z-Pos=11.321336431525456, z-Vel=2.6302263312004137, z-target=10.0)
+Episode =  640, score= 42.077 (best= 72.260, step=31, avg_reward=  1.357, worst=  0.392,  z-Pos=11.328027885027161, z-Vel=2.5159518865172834, z-target=10.0)
+Episode =  641, score= 61.009 (best= 72.260, step=44, avg_reward=  1.387, worst=  0.392,  z-Pos=11.360205379608578, z-Vel=3.232918153370276, z-target=10.0)
+Episode =  642, score= 56.452 (best= 72.260, step=44, avg_reward=  1.283, worst=  0.392,  z-Pos=11.342367269561809, z-Vel=3.3010552290121495, z-target=10.0)
+Episode =  643, score= 51.069 (best= 72.260, step=51, avg_reward=  1.001, worst=  0.392,  z-Pos=11.370797267286093, z-Vel=3.7693461973172186, z-target=10.0)
+Episode =  644, score= 57.718 (best= 72.260, step=38, avg_reward=  1.519, worst=  0.392,  z-Pos=11.32362003388907, z-Vel=3.1586824664571793, z-target=10.0)
+Episode =  645, score= 46.666 (best= 72.260, step=34, avg_reward=  1.373, worst=  0.392,  z-Pos=11.349982996114479, z-Vel=2.5790752802260535, z-target=10.0)
+Episode =  646, score= 56.919 (best= 72.260, step=38, avg_reward=  1.498, worst=  0.392,  z-Pos=11.32268014676545, z-Vel=3.034288203948378, z-target=10.0)
+Episode =  647, score= 60.857 (best= 72.260, step=42, avg_reward=  1.449, worst=  0.392,  z-Pos=11.326142221229071, z-Vel=3.1820969418891907, z-target=10.0)
+Episode =  648, score= 50.719 (best= 72.260, step=47, avg_reward=  1.079, worst=  0.392,  z-Pos=11.364909032113413, z-Vel=3.6285293292119576, z-target=10.0)
+Episode =  649, score= 39.285 (best= 72.260, step=30, avg_reward=  1.309, worst=  0.392,  z-Pos=11.354842473161062, z-Vel=2.385836632122555, z-target=10.0)
+Episode =  650, score= 51.912 (best= 72.260, step=42, avg_reward=  1.236, worst=  0.392,  z-Pos=11.359859586919967, z-Vel=3.4124694108131646, z-target=10.0)
+Episode =  651, score= 55.000 (best= 72.260, step=43, avg_reward=  1.279, worst=  0.392,  z-Pos=11.321330032125472, z-Vel=3.3041304868065713, z-target=10.0)
+Episode =  652, score= 51.114 (best= 72.260, step=53, avg_reward=  0.964, worst=  0.392,  z-Pos=11.339192399674257, z-Vel=3.765839250440423, z-target=10.0)
+Episode =  653, score= 51.166 (best= 72.260, step=42, avg_reward=  1.218, worst=  0.392,  z-Pos=11.335850998518147, z-Vel=3.4574203245011073, z-target=10.0)
+Episode =  654, score= 53.933 (best= 72.260, step=37, avg_reward=  1.458, worst=  0.392,  z-Pos=11.334263244468872, z-Vel=2.881528386385488, z-target=10.0)
+Episode =  655, score= 47.581 (best= 72.260, step=34, avg_reward=  1.399, worst=  0.392,  z-Pos=11.33932450767967, z-Vel=2.6826594401224235, z-target=10.0)
+Episode =  656, score= 55.601 (best= 72.260, step=43, avg_reward=  1.293, worst=  0.392,  z-Pos=11.355236662370304, z-Vel=3.33204934569612, z-target=10.0)
+Episode =  657, score= 53.760 (best= 72.260, step=43, avg_reward=  1.250, worst=  0.392,  z-Pos=11.345719473727122, z-Vel=3.3824283315325743, z-target=10.0)
+Episode =  658, score= 58.167 (best= 72.260, step=39, avg_reward=  1.491, worst=  0.392,  z-Pos=11.362441107749172, z-Vel=3.229554339442126, z-target=10.0)
+Episode =  659, score= 61.231 (best= 72.260, step=40, avg_reward=  1.531, worst=  0.392,  z-Pos=11.325624216487371, z-Vel=3.1644521270973636, z-target=10.0)
+Episode =  660, score= 55.463 (best= 72.260, step=40, avg_reward=  1.387, worst=  0.392,  z-Pos=11.336691719287057, z-Vel=3.2487054401903888, z-target=10.0)
+Episode =  661, score= 47.188 (best= 72.260, step=34, avg_reward=  1.388, worst=  0.392,  z-Pos=11.362376025101431, z-Vel=2.696306303616057, z-target=10.0)
+Episode =  662, score= 53.985 (best= 72.260, step=48, avg_reward=  1.125, worst=  0.392,  z-Pos=11.345974610188492, z-Vel=3.491520247922344, z-target=10.0)
+Episode =  663, score= 60.266 (best= 72.260, step=40, avg_reward=  1.507, worst=  0.392,  z-Pos=11.330402426962038, z-Vel=3.0433777057712996, z-target=10.0)
+Episode =  664, score= 64.007 (best= 72.260, step=42, avg_reward=  1.524, worst=  0.392,  z-Pos=11.357375068025467, z-Vel=3.1552814081506404, z-target=10.0)
+Episode =  665, score= 52.282 (best= 72.260, step=45, avg_reward=  1.162, worst=  0.392,  z-Pos=11.320208475452262, z-Vel=3.462899670788143, z-target=10.0)
+Episode =  666, score= 52.777 (best= 72.260, step=43, avg_reward=  1.227, worst=  0.392,  z-Pos=11.344308066710564, z-Vel=3.401224578276985, z-target=10.0)
+Episode =  667, score= 50.627 (best= 72.260, step=43, avg_reward=  1.177, worst=  0.392,  z-Pos=11.353302793266616, z-Vel=3.50108559388732, z-target=10.0)
+Episode =  668, score= 62.952 (best= 72.260, step=41, avg_reward=  1.535, worst=  0.392,  z-Pos=11.328112081786536, z-Vel=3.1662120720673474, z-target=10.0)
+Episode =  669, score= 51.750 (best= 72.260, step=49, avg_reward=  1.056, worst=  0.392,  z-Pos=11.366851100766356, z-Vel=3.656884844062652, z-target=10.0)
+Episode =  670, score= 61.825 (best= 72.260, step=41, avg_reward=  1.508, worst=  0.392,  z-Pos=11.344141738121788, z-Vel=3.060743042381486, z-target=10.0)
+Episode =  671, score= 55.160 (best= 72.260, step=45, avg_reward=  1.226, worst=  0.392,  z-Pos=11.346171313696251, z-Vel=3.3617957057850654, z-target=10.0)
+Episode =  672, score= 52.019 (best= 72.260, step=41, avg_reward=  1.269, worst=  0.392,  z-Pos=11.37510256794662, z-Vel=3.407052787478774, z-target=10.0)
+Episode =  673, score= 55.773 (best= 72.260, step=48, avg_reward=  1.162, worst=  0.392,  z-Pos=11.378074982892365, z-Vel=3.482042119924993, z-target=10.0)
+Episode =  674, score= 54.870 (best= 72.260, step=45, avg_reward=  1.219, worst=  0.392,  z-Pos=11.371523632097242, z-Vel=3.411736189122732, z-target=10.0)
+Episode =  675, score= 54.122 (best= 72.260, step=37, avg_reward=  1.463, worst=  0.392,  z-Pos=11.360520778350448, z-Vel=2.9884344352342938, z-target=10.0)
+Episode =  676, score= 55.009 (best= 72.260, step=41, avg_reward=  1.342, worst=  0.392,  z-Pos=11.359888042870189, z-Vel=3.299990396319012, z-target=10.0)
+Episode =  677, score= 37.398 (best= 72.260, step=29, avg_reward=  1.290, worst=  0.392,  z-Pos=11.332232811127462, z-Vel=2.228105850433533, z-target=10.0)
+Episode =  678, score= 56.219 (best= 72.260, step=42, avg_reward=  1.339, worst=  0.392,  z-Pos=11.31896223185015, z-Vel=3.251640869187142, z-target=10.0)
+Episode =  679, score= 62.122 (best= 72.260, step=41, avg_reward=  1.515, worst=  0.392,  z-Pos=11.327823689526479, z-Vel=3.053635676915452, z-target=10.0)
+Episode =  680, score= 60.850 (best= 72.260, step=40, avg_reward=  1.521, worst=  0.392,  z-Pos=11.327470576224545, z-Vel=3.115516623142835, z-target=10.0)
+Episode =  681, score= 65.535 (best= 72.260, step=43, avg_reward=  1.524, worst=  0.392,  z-Pos=11.349328197414753, z-Vel=3.10685221304201, z-target=10.0)
+Episode =  682, score= 53.159 (best= 72.260, step=41, avg_reward=  1.297, worst=  0.392,  z-Pos=11.357904792411277, z-Vel=3.3528076936869833, z-target=10.0)
+Episode =  683, score= 55.549 (best= 72.260, step=37, avg_reward=  1.501, worst=  0.392,  z-Pos=11.324724157498272, z-Vel=3.095515766136118, z-target=10.0)
+Episode =  684, score= 55.311 (best= 72.260, step=40, avg_reward=  1.383, worst=  0.392,  z-Pos=11.348986791398467, z-Vel=3.261239579211883, z-target=10.0)
+Episode =  685, score= 56.909 (best= 72.260, step=39, avg_reward=  1.459, worst=  0.392,  z-Pos=11.35950643026595, z-Vel=2.9069388486395757, z-target=10.0)
+Episode =  686, score= 56.852 (best= 72.260, step=42, avg_reward=  1.354, worst=  0.392,  z-Pos=11.347069451057331, z-Vel=3.2694747847295638, z-target=10.0)
+Episode =  687, score= 53.695 (best= 72.260, step=44, avg_reward=  1.220, worst=  0.392,  z-Pos=11.32285373528926, z-Vel=3.3898173114874015, z-target=10.0)
+Episode =  688, score= 54.179 (best= 72.260, step=45, avg_reward=  1.204, worst=  0.392,  z-Pos=11.341720940887337, z-Vel=3.410545351524969, z-target=10.0)
+Episode =  689, score= 49.067 (best= 72.260, step=51, avg_reward=  0.962, worst=  0.392,  z-Pos=11.380563152451968, z-Vel=3.8821103335883644, z-target=10.0)
+Episode =  690, score= 58.973 (best= 72.260, step=42, avg_reward=  1.404, worst=  0.392,  z-Pos=11.32654702832406, z-Vel=3.20888266758234, z-target=10.0)
+Episode =  691, score= 54.326 (best= 72.260, step=41, avg_reward=  1.325, worst=  0.392,  z-Pos=11.338195235319386, z-Vel=3.300497002621172, z-target=10.0)
+Episode =  692, score= 59.851 (best= 72.260, step=44, avg_reward=  1.360, worst=  0.392,  z-Pos=11.380524181528823, z-Vel=3.280528814700692, z-target=10.0)
+Episode =  693, score= 60.078 (best= 72.260, step=40, avg_reward=  1.502, worst=  0.392,  z-Pos=11.369984866856864, z-Vel=3.1315615618307646, z-target=10.0)
+Episode =  694, score= 51.403 (best= 72.260, step=41, avg_reward=  1.254, worst=  0.392,  z-Pos=11.34327111417571, z-Vel=3.4063969878147713, z-target=10.0)
+Episode =  695, score= 55.657 (best= 72.260, step=38, avg_reward=  1.465, worst=  0.392,  z-Pos=11.356329423144944, z-Vel=2.9542281720020953, z-target=10.0)
+Episode =  696, score= 62.640 (best= 72.260, step=42, avg_reward=  1.491, worst=  0.392,  z-Pos=11.372643799588708, z-Vel=3.027897583873979, z-target=10.0)
+Episode =  697, score= 62.028 (best= 72.260, step=41, avg_reward=  1.513, worst=  0.392,  z-Pos=11.349566099536286, z-Vel=3.102324443523646, z-target=10.0)
+Episode =  698, score= 57.965 (best= 72.260, step=39, avg_reward=  1.486, worst=  0.392,  z-Pos=11.324363385434328, z-Vel=2.9456059337101586, z-target=10.0)
+Episode =  699, score= 52.430 (best= 72.260, step=36, avg_reward=  1.456, worst=  0.392,  z-Pos=11.322615606106401, z-Vel=2.870366108603139, z-target=10.0)
+Episode =  700, score= 62.395 (best= 72.260, step=42, avg_reward=  1.486, worst=  0.392,  z-Pos=11.32726041046219, z-Vel=2.878130678822848, z-target=10.0)
